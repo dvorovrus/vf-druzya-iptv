@@ -1,5 +1,7 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="VF Друзья" group-title="Сериалы",VF Друзья
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dvorovrus/vf-druzya-iptv/main/epg.xml" x-tvg-url="https://raw.githubusercontent.com/dvorovrus/vf-druzya-iptv/main/epg.xml"
+#EXTINF:-1 tvg-id="vf-friends" tvg-name="VF Друзья" tvg-logo="https://iptvx.one/picons/vf-friends.png" group-title="Сериалы",VF Друзья
 http://cuhl17e6.ukminlt.fun/iptv/UQBUXP7ZGEMQ5P/17006/index.m3u8
-#EXTINF:-1 tvg-id="vf-series" tvg-name="VF Series" group-title="Сериалы",VF Series (разные сериалы, включая Офис)
+#EXTINF:-1 tvg-id="vf-klinika" tvg-name="VF Клиника" tvg-logo="https://iptvx.one/picons/vf-klinika.png" group-title="Сериалы",VF Клиника
+http://cuhl17e6.ukminlt.fun/iptv/UQBUXP7ZGEMQ5P/13094/index.m3u8
+#EXTINF:-1 tvg-id="vf-series" tvg-name="VF Series" tvg-logo="https://iptvx.one/picons/vf-series.png" group-title="Сериалы",VF Series
 http://cuhl17e6.ukminlt.fun/iptv/UQBUXP7ZGEMQ5P/13085/index.m3u8
