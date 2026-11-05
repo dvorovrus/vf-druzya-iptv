@@ -1212,4 +1212,10 @@
   <programme start="20261109064000 +0300" stop="20261109073800 +0300" channel="vf-series">
     <title>т/с Сокол и Зимний Солдат 5 с.</title>
   </programme>
+  <programme start="20261109073800 +0300" stop="20261109082600 +0300" channel="vf-series">
+    <title>т/с Сокол и Зимний Солдат 6 с.</title>
+  </programme>
+  <programme start="20261109082600 +0300" stop="20261109091900 +0300" channel="vf-series">
+    <title>т/с Воспитанные волками 1 с.</title>
+  </programme>
 </tv>
