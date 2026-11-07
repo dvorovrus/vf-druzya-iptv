@@ -984,4 +984,16 @@
   <programme start="20261109104900 +0300" stop="20261109113500 +0300" channel="vf-series">
     <title>т/с Воспитанные волками 4 с.</title>
   </programme>
+  <programme start="20261109113500 +0300" stop="20261109123000 +0300" channel="vf-series">
+    <title>т/с Воспитанные волками 5 с.</title>
+  </programme>
+  <programme start="20261109123000 +0300" stop="20261109132500 +0300" channel="vf-series">
+    <title>т/с Воспитанные волками 6 с.</title>
+  </programme>
+  <programme start="20261109132500 +0300" stop="20261109141400 +0300" channel="vf-series">
+    <title>т/с Воспитанные волками 7 с.</title>
+  </programme>
+  <programme start="20261109141400 +0300" stop="20261109150300 +0300" channel="vf-series">
+    <title>т/с Воспитанные волками 8 с.</title>
+  </programme>
 </tv>
