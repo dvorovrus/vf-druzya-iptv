@@ -12,195 +12,6 @@
     <display-name lang="ru">VF Клиника</display-name>
     <icon src="https://iptvx.one/picons/vf-klinika.png" />
   </channel>
-  <programme start="20261107000700 +0300" stop="20261107003000 +0300" channel="vf-friends">
-    <title>т/с Эпизод, где улетает Суперпёс</title>
-  </programme>
-  <programme start="20261107003000 +0300" stop="20261107005300 +0300" channel="vf-friends">
-    <title>т/с Эпизод с обезьяной</title>
-  </programme>
-  <programme start="20261107005300 +0300" stop="20261107011600 +0300" channel="vf-friends">
-    <title>т/с Эпизод с госпожой Бинг</title>
-  </programme>
-  <programme start="20261107011600 +0300" stop="20261107013800 +0300" channel="vf-friends">
-    <title>т/с Эпизод с дюжиной лазаний</title>
-  </programme>
-  <programme start="20261107013800 +0300" stop="20261107020100 +0300" channel="vf-friends">
-    <title>т/с Эпизод с грудью</title>
-  </programme>
-  <programme start="20261107020100 +0300" stop="20261107022400 +0300" channel="vf-friends">
-    <title>т/с Эпизод с конфетками-сердцами</title>
-  </programme>
-  <programme start="20261107022400 +0300" stop="20261107024700 +0300" channel="vf-friends">
-    <title>т/с Эпизод с обкуренным парнем</title>
-  </programme>
-  <programme start="20261107024700 +0300" stop="20261107031000 +0300" channel="vf-friends">
-    <title>т/с Эпизод с двумя частями, часть 1</title>
-  </programme>
-  <programme start="20261107031000 +0300" stop="20261107033200 +0300" channel="vf-friends">
-    <title>т/с Эпизод с двумя частями, часть 2</title>
-  </programme>
-  <programme start="20261107033200 +0300" stop="20261107035500 +0300" channel="vf-friends">
-    <title>т/с Эпизод с покером</title>
-  </programme>
-  <programme start="20261107035500 +0300" stop="20261107041800 +0300" channel="vf-friends">
-    <title>т/с Эпизод, где обезьяна сбегает</title>
-  </programme>
-  <programme start="20261107041800 +0300" stop="20261107044100 +0300" channel="vf-friends">
-    <title>т/с Эпизод со злым ортодонтом</title>
-  </programme>
-  <programme start="20261107044100 +0300" stop="20261107050300 +0300" channel="vf-friends">
-    <title>т/с Эпизод с фальшивой Моникой</title>
-  </programme>
-  <programme start="20261107050300 +0300" stop="20261107052600 +0300" channel="vf-friends">
-    <title>т/с Эпизод с ик-фактором</title>
-  </programme>
-  <programme start="20261107052600 +0300" stop="20261107054900 +0300" channel="vf-friends">
-    <title>т/с Эпизод с рождением</title>
-  </programme>
-  <programme start="20261107054900 +0300" stop="20261107061100 +0300" channel="vf-friends">
-    <title>т/с Эпизод, где Рейчел понимает</title>
-  </programme>
-  <programme start="20261107061100 +0300" stop="20261107063400 +0300" channel="vf-friends">
-    <title>т/с Эпизод с новой подругой Росса</title>
-  </programme>
-  <programme start="20261107063400 +0300" stop="20261107065600 +0300" channel="vf-friends">
-    <title>т/с Эпизод с грудным молоком</title>
-  </programme>
-  <programme start="20261107065600 +0300" stop="20261107071900 +0300" channel="vf-friends">
-    <title>т/с Эпизод, где мистер Хеклс умирает</title>
-  </programme>
-  <programme start="20261107071900 +0300" stop="20261107074200 +0300" channel="vf-friends">
-    <title>т/с Эпизод с мужем Фиби</title>
-  </programme>
-  <programme start="20261107074200 +0300" stop="20261107080500 +0300" channel="vf-friends">
-    <title>т/с Эпизод с пятью бифштексами и баклажаном</title>
-  </programme>
-  <programme start="20261107080500 +0300" stop="20261107082800 +0300" channel="vf-friends">
-    <title>т/с Эпизод с младенцем в автобусе</title>
-  </programme>
-  <programme start="20261107082800 +0300" stop="20261107085100 +0300" channel="vf-friends">
-    <title>т/с Эпизод, где Росс выясняет</title>
-  </programme>
-  <programme start="20261107085100 +0300" stop="20261107091300 +0300" channel="vf-friends">
-    <title>т/с Эпизод со списком</title>
-  </programme>
-  <programme start="20261107091300 +0300" stop="20261107093600 +0300" channel="vf-friends">
-    <title>т/с Эпизод с отцом Фиби</title>
-  </programme>
-  <programme start="20261107093600 +0300" stop="20261107095900 +0300" channel="vf-friends">
-    <title>т/с Эпизод с Рассом</title>
-  </programme>
-  <programme start="20261107095900 +0300" stop="20261107102200 +0300" channel="vf-friends">
-    <title>т/с Эпизод с лесбийской свадьбой</title>
-  </programme>
-  <programme start="20261107102200 +0300" stop="20261107104400 +0300" channel="vf-friends">
-    <title>т/с Эпизод после Суперкубка, часть 1</title>
-  </programme>
-  <programme start="20261107104400 +0300" stop="20261107110700 +0300" channel="vf-friends">
-    <title>т/с Эпизод после Суперкубка, часть 2</title>
-  </programme>
-  <programme start="20261107110700 +0300" stop="20261107113000 +0300" channel="vf-friends">
-    <title>т/с Эпизод, где смотрят видео с выпускного бала</title>
-  </programme>
-  <programme start="20261107113000 +0300" stop="20261107115200 +0300" channel="vf-friends">
-    <title>т/с Эпизод, где Росс и Рейчел … ну, вы знаете</title>
-  </programme>
-  <programme start="20261107115200 +0300" stop="20261107121500 +0300" channel="vf-friends">
-    <title>т/с Эпизод, где Джо выселяется</title>
-  </programme>
-  <programme start="20261107121500 +0300" stop="20261107123800 +0300" channel="vf-friends">
-    <title>т/с Эпизод, где Эдди заселяется</title>
-  </programme>
-  <programme start="20261107123800 +0300" stop="20261107130100 +0300" channel="vf-friends">
-    <title>т/с Эпизод, где доктор Рэморе умирает</title>
-  </programme>
-  <programme start="20261107130100 +0300" stop="20261107132300 +0300" channel="vf-friends">
-    <title>т/с Эпизод, где Эдди не хочет выселяться</title>
-  </programme>
-  <programme start="20261107132300 +0300" stop="20261107134600 +0300" channel="vf-friends">
-    <title>т/с Эпизод, где старый Йеллер умирает</title>
-  </programme>
-  <programme start="20261107134600 +0300" stop="20261107140900 +0300" channel="vf-friends">
-    <title>т/с Эпизод с хулиганами</title>
-  </programme>
-  <programme start="20261107140900 +0300" stop="20261107143200 +0300" channel="vf-friends">
-    <title>т/с Эпизод с двумя вечеринками</title>
-  </programme>
-  <programme start="20261107143200 +0300" stop="20261107145400 +0300" channel="vf-friends">
-    <title>т/с Эпизод с ветрянкой</title>
-  </programme>
-  <programme start="20261107145400 +0300" stop="20261107151700 +0300" channel="vf-friends">
-    <title>т/с Эпизод со свадьбой Барри и Минди</title>
-  </programme>
-  <programme start="20261107151700 +0300" stop="20261107154000 +0300" channel="vf-friends">
-    <title>т/с Эпизод с фантазией о принцессе Лейе</title>
-  </programme>
-  <programme start="20261107154000 +0300" stop="20261107160300 +0300" channel="vf-friends">
-    <title>т/с Эпизод, где никто не готов</title>
-  </programme>
-  <programme start="20261107160300 +0300" stop="20261107162500 +0300" channel="vf-friends">
-    <title>т/с Эпизод с джемом</title>
-  </programme>
-  <programme start="20261107162500 +0300" stop="20261107164800 +0300" channel="vf-friends">
-    <title>т/с Эпизод с метафорическим туннелем</title>
-  </programme>
-  <programme start="20261107164800 +0300" stop="20261107171100 +0300" channel="vf-friends">
-    <title>т/с Эпизод с Фрэнком-младшим</title>
-  </programme>
-  <programme start="20261107171100 +0300" stop="20261107173400 +0300" channel="vf-friends">
-    <title>т/с Эпизод с ретроспективным кадром</title>
-  </programme>
-  <programme start="20261107173400 +0300" stop="20261107175700 +0300" channel="vf-friends">
-    <title>т/с Эпизод с кроватью в виде гоночного автомобиля</title>
-  </programme>
-  <programme start="20261107175700 +0300" stop="20261107181900 +0300" channel="vf-friends">
-    <title>т/с Эпизод с гигантским тыкающим устройством</title>
-  </programme>
-  <programme start="20261107181900 +0300" stop="20261107184200 +0300" channel="vf-friends">
-    <title>т/с Эпизод с футболом</title>
-  </programme>
-  <programme start="20261107184200 +0300" stop="20261107190500 +0300" channel="vf-friends">
-    <title>т/с Эпизод, где Рейчел увольняется</title>
-  </programme>
-  <programme start="20261107190500 +0300" stop="20261107192800 +0300" channel="vf-friends">
-    <title>т/с Эпизод, где Чендлер не помнит, какая сестра</title>
-  </programme>
-  <programme start="20261107192800 +0300" stop="20261107195100 +0300" channel="vf-friends">
-    <title>т/с Эпизод с ревностью всех</title>
-  </programme>
-  <programme start="20261107195100 +0300" stop="20261107201300 +0300" channel="vf-friends">
-    <title>т/с Эпизод, где Моника и Ричард просто друзья</title>
-  </programme>
-  <programme start="20261107201300 +0300" stop="20261107203600 +0300" channel="vf-friends">
-    <title>т/с Эпизод с экс-партнёром Фиби</title>
-  </programme>
-  <programme start="20261107203600 +0300" stop="20261107205900 +0300" channel="vf-friends">
-    <title>т/с Эпизод, где Росс и Рейчел делают перерыв</title>
-  </programme>
-  <programme start="20261107205900 +0300" stop="20261107212200 +0300" channel="vf-friends">
-    <title>т/с Эпизод, когда наступает утро после</title>
-  </programme>
-  <programme start="20261107212200 +0300" stop="20261107214500 +0300" channel="vf-friends">
-    <title>т/с Эпизод с лыжной поездкой</title>
-  </programme>
-  <programme start="20261107214500 +0300" stop="20261107220800 +0300" channel="vf-friends">
-    <title>т/с Эпизод с кассетой гипноза</title>
-  </programme>
-  <programme start="20261107220800 +0300" stop="20261107223000 +0300" channel="vf-friends">
-    <title>т/с Эпизод с крошечной футболкой</title>
-  </programme>
-  <programme start="20261107223000 +0300" stop="20261107225300 +0300" channel="vf-friends">
-    <title>т/с Эпизод с кукольным домиком</title>
-  </programme>
-  <programme start="20261107225300 +0300" stop="20261107231600 +0300" channel="vf-friends">
-    <title>т/с Эпизод с цыплёнком и уткой</title>
-  </programme>
-  <programme start="20261107231600 +0300" stop="20261107233900 +0300" channel="vf-friends">
-    <title>т/с Эпизод с крикуном</title>
-  </programme>
-  <programme start="20261107233900 +0300" stop="20261108000200 +0300" channel="vf-friends">
-    <title>т/с Эпизод со штучкой Росса</title>
-  </programme>
   <programme start="20261108000200 +0300" stop="20261108010200 +0300" channel="vf-friends">
     <title>т/с Эпизод с чемпионом по боям без правил</title>
   </programme>
@@ -405,14 +216,29 @@
   <programme start="20261109060900 +0300" stop="20261109063100 +0300" channel="vf-friends">
     <title>т/с Эпизод в котором Чендлер принимает ванну</title>
   </programme>
+  <programme start="20261109060900 +0300" stop="20261109063000 +0300" channel="vf-friends">
+    <title>т/с Эпизод в котором Чендлер принимает ванну</title>
+  </programme>
+  <programme start="20261109063000 +0300" stop="20261109065200 +0300" channel="vf-friends">
+    <title>т/с Эпизод про тайный чулан</title>
+  </programme>
   <programme start="20261109063100 +0300" stop="20261109065300 +0300" channel="vf-friends">
     <title>т/с Эпизод про тайный чулан</title>
+  </programme>
+  <programme start="20261109065200 +0300" stop="20261109071400 +0300" channel="vf-friends">
+    <title>т/с Эпизод с видео о родах</title>
   </programme>
   <programme start="20261109065300 +0300" stop="20261109071500 +0300" channel="vf-friends">
     <title>т/с Эпизод с видео о родах</title>
   </programme>
+  <programme start="20261109071400 +0300" stop="20261109073500 +0300" channel="vf-friends">
+    <title>т/с Эпизод в котором Джо рассказывает Рэйчел</title>
+  </programme>
   <programme start="20261109071500 +0300" stop="20261109073600 +0300" channel="vf-friends">
     <title>т/с Эпизод в котором Джо рассказывает Рэйчел</title>
+  </programme>
+  <programme start="20261109073500 +0300" stop="20261109081900 +0300" channel="vf-friends">
+    <title>т/с Эпизод с чайными листьями</title>
   </programme>
   <programme start="20261109073600 +0300" stop="20261109075800 +0300" channel="vf-friends">
     <title>т/с Эпизод с чайными листьями</title>
@@ -420,26 +246,50 @@
   <programme start="20261109075800 +0300" stop="20261109082000 +0300" channel="vf-friends">
     <title>т/с Эпизод проходит в Массапеке</title>
   </programme>
+  <programme start="20261109081900 +0300" stop="20261109084100 +0300" channel="vf-friends">
+    <title>т/с Эпизод с интервью Джо</title>
+  </programme>
   <programme start="20261109082000 +0300" stop="20261109084200 +0300" channel="vf-friends">
     <title>т/с Эпизод с интервью Джо</title>
+  </programme>
+  <programme start="20261109084100 +0300" stop="20261109090300 +0300" channel="vf-friends">
+    <title>т/с Эпизод с детской вечеринкой</title>
   </programme>
   <programme start="20261109084200 +0300" stop="20261109090400 +0300" channel="vf-friends">
     <title>т/с Эпизод с детской вечеринкой</title>
   </programme>
+  <programme start="20261109090300 +0300" stop="20261109092500 +0300" channel="vf-friends">
+    <title>т/с Эпизод с курсами кулинарии</title>
+  </programme>
   <programme start="20261109090400 +0300" stop="20261109092600 +0300" channel="vf-friends">
     <title>т/с Эпизод с курсами кулинарии</title>
+  </programme>
+  <programme start="20261109092500 +0300" stop="20261109094700 +0300" channel="vf-friends">
+    <title>т/с Эпизод, где Рэйчел перенашивает</title>
   </programme>
   <programme start="20261109092600 +0300" stop="20261109094800 +0300" channel="vf-friends">
     <title>т/с Эпизод, где Рэйчел перенашивает</title>
   </programme>
+  <programme start="20261109094700 +0300" stop="20261109100900 +0300" channel="vf-friends">
+    <title>т/с Эпизод в котором рождается ребёнок, часть 1</title>
+  </programme>
   <programme start="20261109094800 +0300" stop="20261109101000 +0300" channel="vf-friends">
     <title>т/с Эпизод в котором рождается ребёнок, часть 1</title>
+  </programme>
+  <programme start="20261109100900 +0300" stop="20261109103100 +0300" channel="vf-friends">
+    <title>т/с Эпизод в котором рождается ребёнок, часть 2</title>
   </programme>
   <programme start="20261109101000 +0300" stop="20261109103200 +0300" channel="vf-friends">
     <title>т/с Эпизод в котором рождается ребёнок, часть 2</title>
   </programme>
+  <programme start="20261109103100 +0300" stop="20261109105400 +0300" channel="vf-friends">
+    <title>т/с Эпизод в котором никто не делает предложения</title>
+  </programme>
   <programme start="20261109103200 +0300" stop="20261109105500 +0300" channel="vf-friends">
     <title>т/с Эпизод в котором никто не делает предложения</title>
+  </programme>
+  <programme start="20261109105400 +0300" stop="20261109111800 +0300" channel="vf-friends">
+    <title>т/с Эпизод, где плачет Эмма</title>
   </programme>
   <programme start="20261109105500 +0300" stop="20261109111800 +0300" channel="vf-friends">
     <title>т/с Эпизод, где плачет Эмма</title>
@@ -450,11 +300,23 @@
   <programme start="20261109114100 +0300" stop="20261109120500 +0300" channel="vf-friends">
     <title>т/с Эпизод с акулами</title>
   </programme>
+  <programme start="20261109114100 +0300" stop="20261109120400 +0300" channel="vf-friends">
+    <title>т/с Эпизод с акулами</title>
+  </programme>
+  <programme start="20261109120400 +0300" stop="20261109122700 +0300" channel="vf-friends">
+    <title>т/с Эпизод с днём рождения Фиби</title>
+  </programme>
   <programme start="20261109120500 +0300" stop="20261109122800 +0300" channel="vf-friends">
     <title>т/с Эпизод с днём рождения Фиби</title>
   </programme>
+  <programme start="20261109122700 +0300" stop="20261109125900 +0300" channel="vf-friends">
+    <title>т/с Эпизод с няней мужского пола</title>
+  </programme>
   <programme start="20261109122800 +0300" stop="20261109130000 +0300" channel="vf-friends">
     <title>т/с Эпизод с няней мужского пола</title>
+  </programme>
+  <programme start="20261109125900 +0300" stop="20261109132300 +0300" channel="vf-friends">
+    <title>т/с Эпизод с неуместной песней Росса</title>
   </programme>
   <programme start="20261109130000 +0300" stop="20261109132300 +0300" channel="vf-friends">
     <title>т/с Эпизод с неуместной песней Росса</title>
@@ -465,11 +327,20 @@
   <programme start="20261109134800 +0300" stop="20261109141200 +0300" channel="vf-friends">
     <title>т/с Эпизод с телефонным номером Рэйчел</title>
   </programme>
+  <programme start="20261109134800 +0300" stop="20261109141100 +0300" channel="vf-friends">
+    <title>т/с Эпизод с телефонным номером Рэйчел</title>
+  </programme>
+  <programme start="20261109141100 +0300" stop="20261109145700 +0300" channel="vf-friends">
+    <title>т/с Эпизод с Рождеством в Талсе</title>
+  </programme>
   <programme start="20261109141200 +0300" stop="20261109143500 +0300" channel="vf-friends">
     <title>т/с Эпизод с Рождеством в Талсе</title>
   </programme>
   <programme start="20261109143500 +0300" stop="20261109145800 +0300" channel="vf-friends">
     <title>т/с Эпизод, где Рэйчел возвращается на работу</title>
+  </programme>
+  <programme start="20261109145700 +0300" stop="20261109152100 +0300" channel="vf-friends">
+    <title>т/с Эпизод с крысами Фиби</title>
   </programme>
   <programme start="20261109145800 +0300" stop="20261109152100 +0300" channel="vf-friends">
     <title>т/с Эпизод с крысами Фиби</title>
@@ -492,6 +363,12 @@
   <programme start="20261109172500 +0300" stop="20261109174800 +0300" channel="vf-friends">
     <title>т/с Эпизод с лотереей</title>
   </programme>
+  <programme start="20261109172500 +0300" stop="20261109174700 +0300" channel="vf-friends">
+    <title>т/с Эпизод с лотереей</title>
+  </programme>
+  <programme start="20261109174700 +0300" stop="20261109181200 +0300" channel="vf-friends">
+    <title>т/с Эпизод со сном Рэйчел</title>
+  </programme>
   <programme start="20261109174800 +0300" stop="20261109181200 +0300" channel="vf-friends">
     <title>т/с Эпизод со сном Рэйчел</title>
   </programme>
@@ -504,8 +381,17 @@
   <programme start="20261109190300 +0300" stop="20261109192800 +0300" channel="vf-friends">
     <title>т/с Эпизод с донором</title>
   </programme>
+  <programme start="20261109190300 +0300" stop="20261109192700 +0300" channel="vf-friends">
+    <title>т/с Эпизод с донором</title>
+  </programme>
+  <programme start="20261109192700 +0300" stop="20261109201700 +0300" channel="vf-friends">
+    <title>т/с Эпизод на Барбадосе</title>
+  </programme>
   <programme start="20261109192800 +0300" stop="20261109201800 +0300" channel="vf-friends">
     <title>т/с Эпизод на Барбадосе</title>
+  </programme>
+  <programme start="20261109201700 +0300" stop="20261109204700 +0300" channel="vf-friends">
+    <title>т/с Эпизод после поцелуя Джо и Рейчел</title>
   </programme>
   <programme start="20261109201800 +0300" stop="20261109204700 +0300" channel="vf-friends">
     <title>т/с Эпизод после поцелуя Джо и Рейчел</title>
@@ -516,11 +402,23 @@
   <programme start="20261109211100 +0300" stop="20261109213600 +0300" channel="vf-friends">
     <title>т/с Эпизод c загаром Росса</title>
   </programme>
+  <programme start="20261109211100 +0300" stop="20261109213500 +0300" channel="vf-friends">
+    <title>т/с Эпизод c загаром Росса</title>
+  </programme>
+  <programme start="20261109213500 +0300" stop="20261109215800 +0300" channel="vf-friends">
+    <title>т/с Эпизод с тортом</title>
+  </programme>
   <programme start="20261109213600 +0300" stop="20261109215800 +0300" channel="vf-friends">
     <title>т/с Эпизод с тортом</title>
   </programme>
   <programme start="20261109215800 +0300" stop="20261109222700 +0300" channel="vf-friends">
     <title>т/с Эпизод, в котором сестра Рэйчел нянчится</title>
+  </programme>
+  <programme start="20261109215800 +0300" stop="20261109222600 +0300" channel="vf-friends">
+    <title>т/с Эпизод, в котором сестра Рэйчел нянчится</title>
+  </programme>
+  <programme start="20261109222600 +0300" stop="20261109225100 +0300" channel="vf-friends">
+    <title>т/с Эпизод с грантом Росса</title>
   </programme>
   <programme start="20261109222700 +0300" stop="20261109225100 +0300" channel="vf-friends">
     <title>т/с Эпизод с грантом Росса</title>
@@ -531,6 +429,12 @@
   <programme start="20261109231400 +0300" stop="20261109233800 +0300" channel="vf-friends">
     <title>т/с Эпизод с запоздавшим днём благодарения</title>
   </programme>
+  <programme start="20261109231400 +0300" stop="20261109233700 +0300" channel="vf-friends">
+    <title>т/с Эпизод с запоздавшим днём благодарения</title>
+  </programme>
+  <programme start="20261109233700 +0300" stop="20261110000200 +0300" channel="vf-friends">
+    <title>т/с Эпизод с суррогатной матерью</title>
+  </programme>
   <programme start="20261109233800 +0300" stop="20261110000200 +0300" channel="vf-friends">
     <title>т/с Эпизод с суррогатной матерью</title>
   </programme>
@@ -539,6 +443,12 @@
   </programme>
   <programme start="20261110002500 +0300" stop="20261110005300 +0300" channel="vf-friends">
     <title>т/с Эпизод, где стриптизёр плачет</title>
+  </programme>
+  <programme start="20261110002500 +0300" stop="20261110005200 +0300" channel="vf-friends">
+    <title>т/с Эпизод, где стриптизёр плачет</title>
+  </programme>
+  <programme start="20261110005200 +0300" stop="20261110012200 +0300" channel="vf-friends">
+    <title>т/с Эпизод со свадьбой Фиби</title>
   </programme>
   <programme start="20261110005300 +0300" stop="20261110012200 +0300" channel="vf-friends">
     <title>т/с Эпизод со свадьбой Фиби</title>
@@ -552,14 +462,29 @@
   <programme start="20261110020900 +0300" stop="20261110023300 +0300" channel="vf-friends">
     <title>т/с Эпизод, в котором Эстель умирает</title>
   </programme>
+  <programme start="20261110020900 +0300" stop="20261110023200 +0300" channel="vf-friends">
+    <title>т/с Эпизод, в котором Эстель умирает</title>
+  </programme>
+  <programme start="20261110023200 +0300" stop="20261110025500 +0300" channel="vf-friends">
+    <title>т/с Эпизод с прощальной вечеринкой Рэйчел</title>
+  </programme>
   <programme start="20261110023300 +0300" stop="20261110025500 +0300" channel="vf-friends">
     <title>т/с Эпизод с прощальной вечеринкой Рэйчел</title>
   </programme>
   <programme start="20261110025500 +0300" stop="20261110034300 +0300" channel="vf-friends">
     <title>т/с Финальный эпизод</title>
   </programme>
+  <programme start="20261110025500 +0300" stop="20261110034200 +0300" channel="vf-friends">
+    <title>т/с Финальный эпизод</title>
+  </programme>
+  <programme start="20261110034200 +0300" stop="20261110040500 +0300" channel="vf-friends">
+    <title>т/с Эпизод, где Моника берёт новую соседку</title>
+  </programme>
   <programme start="20261110034300 +0300" stop="20261110040600 +0300" channel="vf-friends">
     <title>т/с Эпизод, где Моника берёт новую соседку</title>
+  </programme>
+  <programme start="20261110040500 +0300" stop="20261110042800 +0300" channel="vf-friends">
+    <title>т/с Эпизод с сонограммой в конце</title>
   </programme>
   <programme start="20261110040600 +0300" stop="20261110042800 +0300" channel="vf-friends">
     <title>т/с Эпизод с сонограммой в конце</title>
@@ -570,173 +495,281 @@
   <programme start="20261110045100 +0300" stop="20261110051400 +0300" channel="vf-friends">
     <title>т/с Эпизод с Джорджем Стефанопулосом</title>
   </programme>
-  <programme start="20261110051400 +0300" stop="20261110053700 +0300" channel="vf-friends">
+  <programme start="20261110045100 +0300" stop="20261110051300 +0300" channel="vf-friends">
+    <title>т/с Эпизод с Джорджем Стефанопулосом</title>
+  </programme>
+  <programme start="20261110051300 +0300" stop="20261110053600 +0300" channel="vf-friends">
     <title>т/с Эпизод с восточногерманским стиральным порошком</title>
   </programme>
-  <programme start="20261110053700 +0300" stop="20261110055800 +0300" channel="vf-friends">
+  <programme start="20261110053600 +0300" stop="20261110055700 +0300" channel="vf-friends">
     <title>т/с Эпизод с задом</title>
   </programme>
-  <programme start="20261110055800 +0300" stop="20261110062000 +0300" channel="vf-friends">
+  <programme start="20261110055700 +0300" stop="20261110062000 +0300" channel="vf-friends">
     <title>т/с Эпизод, в котором отключается свет</title>
   </programme>
-  <programme start="20261110062000 +0300" stop="20261110064300 +0300" channel="vf-friends">
+  <programme start="20261110062000 +0300" stop="20261110064200 +0300" channel="vf-friends">
     <title>т/с Эпизод, где Нана умирает дважды</title>
   </programme>
-  <programme start="20261110064300 +0300" stop="20261110070600 +0300" channel="vf-friends">
+  <programme start="20261110064200 +0300" stop="20261110070500 +0300" channel="vf-friends">
     <title>т/с Эпизод, где улетает Суперпёс</title>
   </programme>
-  <programme start="20261110070600 +0300" stop="20261110072800 +0300" channel="vf-friends">
+  <programme start="20261110070500 +0300" stop="20261110072800 +0300" channel="vf-friends">
     <title>т/с Эпизод с обезьяной</title>
   </programme>
   <programme start="20261110072800 +0300" stop="20261110075100 +0300" channel="vf-friends">
     <title>т/с Эпизод с госпожой Бинг</title>
   </programme>
-  <programme start="20261110075100 +0300" stop="20261110081400 +0300" channel="vf-friends">
+  <programme start="20261110075100 +0300" stop="20261110081300 +0300" channel="vf-friends">
     <title>т/с Эпизод с дюжиной лазаний</title>
   </programme>
-  <programme start="20261110081400 +0300" stop="20261110083700 +0300" channel="vf-friends">
+  <programme start="20261110081300 +0300" stop="20261110083600 +0300" channel="vf-friends">
     <title>т/с Эпизод с грудью</title>
   </programme>
-  <programme start="20261110083700 +0300" stop="20261110085900 +0300" channel="vf-friends">
+  <programme start="20261110083600 +0300" stop="20261110085900 +0300" channel="vf-friends">
     <title>т/с Эпизод с конфетками-сердцами</title>
   </programme>
   <programme start="20261110085900 +0300" stop="20261110092200 +0300" channel="vf-friends">
     <title>т/с Эпизод с обкуренным парнем</title>
   </programme>
-  <programme start="20261110092200 +0300" stop="20261110094500 +0300" channel="vf-friends">
+  <programme start="20261110092200 +0300" stop="20261110094400 +0300" channel="vf-friends">
     <title>т/с Эпизод с двумя частями, часть 1</title>
   </programme>
-  <programme start="20261110094500 +0300" stop="20261110100800 +0300" channel="vf-friends">
+  <programme start="20261110094400 +0300" stop="20261110100700 +0300" channel="vf-friends">
     <title>т/с Эпизод с двумя частями, часть 2</title>
   </programme>
-  <programme start="20261110100800 +0300" stop="20261110103100 +0300" channel="vf-friends">
+  <programme start="20261110100700 +0300" stop="20261110103000 +0300" channel="vf-friends">
     <title>т/с Эпизод с покером</title>
   </programme>
-  <programme start="20261110103100 +0300" stop="20261110105300 +0300" channel="vf-friends">
+  <programme start="20261110103000 +0300" stop="20261110105300 +0300" channel="vf-friends">
     <title>т/с Эпизод, где обезьяна сбегает</title>
   </programme>
-  <programme start="20261110105300 +0300" stop="20261110111600 +0300" channel="vf-friends">
+  <programme start="20261110105300 +0300" stop="20261110111500 +0300" channel="vf-friends">
     <title>т/с Эпизод со злым ортодонтом</title>
   </programme>
-  <programme start="20261110111600 +0300" stop="20261110113900 +0300" channel="vf-friends">
+  <programme start="20261110111500 +0300" stop="20261110113800 +0300" channel="vf-friends">
     <title>т/с Эпизод с фальшивой Моникой</title>
   </programme>
-  <programme start="20261110113900 +0300" stop="20261110120100 +0300" channel="vf-friends">
+  <programme start="20261110113800 +0300" stop="20261110120100 +0300" channel="vf-friends">
     <title>т/с Эпизод с ик-фактором</title>
   </programme>
   <programme start="20261110120100 +0300" stop="20261110122400 +0300" channel="vf-friends">
     <title>т/с Эпизод с рождением</title>
   </programme>
-  <programme start="20261110122400 +0300" stop="20261110124700 +0300" channel="vf-friends">
+  <programme start="20261110122400 +0300" stop="20261110124600 +0300" channel="vf-friends">
     <title>т/с Эпизод, где Рейчел понимает</title>
   </programme>
-  <programme start="20261110124700 +0300" stop="20261110130900 +0300" channel="vf-friends">
+  <programme start="20261110124600 +0300" stop="20261110130800 +0300" channel="vf-friends">
     <title>т/с Эпизод с новой подругой Росса</title>
   </programme>
-  <programme start="20261110130900 +0300" stop="20261110133200 +0300" channel="vf-friends">
+  <programme start="20261110130800 +0300" stop="20261110133100 +0300" channel="vf-friends">
     <title>т/с Эпизод с грудным молоком</title>
   </programme>
-  <programme start="20261110133200 +0300" stop="20261110135500 +0300" channel="vf-friends">
+  <programme start="20261110133100 +0300" stop="20261110135400 +0300" channel="vf-friends">
     <title>т/с Эпизод, где мистер Хеклс умирает</title>
   </programme>
-  <programme start="20261110135500 +0300" stop="20261110141700 +0300" channel="vf-friends">
+  <programme start="20261110135400 +0300" stop="20261110141700 +0300" channel="vf-friends">
     <title>т/с Эпизод с мужем Фиби</title>
   </programme>
   <programme start="20261110141700 +0300" stop="20261110144000 +0300" channel="vf-friends">
     <title>т/с Эпизод с пятью бифштексами и баклажаном</title>
   </programme>
-  <programme start="20261110144000 +0300" stop="20261110150300 +0300" channel="vf-friends">
+  <programme start="20261110144000 +0300" stop="20261110150200 +0300" channel="vf-friends">
     <title>т/с Эпизод с младенцем в автобусе</title>
   </programme>
-  <programme start="20261110150300 +0300" stop="20261110160300 +0300" channel="vf-friends">
+  <programme start="20261110150200 +0300" stop="20261110152500 +0300" channel="vf-friends">
     <title>т/с Эпизод, где Росс выясняет</title>
   </programme>
-  <programme start="20261107005000 +0300" stop="20261107014100 +0300" channel="vf-series">
-    <title>т/с Настоящий детектив 7 с.</title>
+  <programme start="20261110152500 +0300" stop="20261110154800 +0300" channel="vf-friends">
+    <title>т/с Эпизод со списком</title>
   </programme>
-  <programme start="20261107014100 +0300" stop="20261107023400 +0300" channel="vf-series">
-    <title>т/с Настоящий детектив 8 с.</title>
+  <programme start="20261110154800 +0300" stop="20261110161100 +0300" channel="vf-friends">
+    <title>т/с Эпизод с отцом Фиби</title>
   </programme>
-  <programme start="20261107023400 +0300" stop="20261107031900 +0300" channel="vf-series">
-    <title>т/с Пространство 1 с.</title>
+  <programme start="20261110161100 +0300" stop="20261110163400 +0300" channel="vf-friends">
+    <title>т/с Эпизод с Рассом</title>
   </programme>
-  <programme start="20261107031900 +0300" stop="20261107040200 +0300" channel="vf-series">
-    <title>т/с Пространство 2 с.</title>
+  <programme start="20261110163400 +0300" stop="20261110165700 +0300" channel="vf-friends">
+    <title>т/с Эпизод с лесбийской свадьбой</title>
   </programme>
-  <programme start="20261107040200 +0300" stop="20261107044500 +0300" channel="vf-series">
-    <title>т/с Пространство 3 с.</title>
+  <programme start="20261110165700 +0300" stop="20261110171900 +0300" channel="vf-friends">
+    <title>т/с Эпизод после Суперкубка, часть 1</title>
   </programme>
-  <programme start="20261107044500 +0300" stop="20261107052700 +0300" channel="vf-series">
-    <title>т/с Пространство 4 с.</title>
+  <programme start="20261110171900 +0300" stop="20261110174200 +0300" channel="vf-friends">
+    <title>т/с Эпизод после Суперкубка, часть 2</title>
   </programme>
-  <programme start="20261107052700 +0300" stop="20261107061000 +0300" channel="vf-series">
-    <title>т/с Пространство 5 с.</title>
+  <programme start="20261110174200 +0300" stop="20261110180500 +0300" channel="vf-friends">
+    <title>т/с Эпизод, где смотрят видео с выпускного бала</title>
   </programme>
-  <programme start="20261107061000 +0300" stop="20261107065300 +0300" channel="vf-series">
-    <title>т/с Пространство 6 с.</title>
+  <programme start="20261110180500 +0300" stop="20261110182700 +0300" channel="vf-friends">
+    <title>т/с Эпизод, где Росс и Рейчел … ну, вы знаете</title>
   </programme>
-  <programme start="20261107065300 +0300" stop="20261107073600 +0300" channel="vf-series">
-    <title>т/с Пространство 7 с.</title>
+  <programme start="20261110182700 +0300" stop="20261110185000 +0300" channel="vf-friends">
+    <title>т/с Эпизод, где Джо выселяется</title>
   </programme>
-  <programme start="20261107073600 +0300" stop="20261107081900 +0300" channel="vf-series">
-    <title>т/с Пространство 8 с.</title>
+  <programme start="20261110185000 +0300" stop="20261110191300 +0300" channel="vf-friends">
+    <title>т/с Эпизод, где Эдди заселяется</title>
   </programme>
-  <programme start="20261107081900 +0300" stop="20261107090000 +0300" channel="vf-series">
-    <title>т/с Пространство 9 с.</title>
+  <programme start="20261110191300 +0300" stop="20261110193500 +0300" channel="vf-friends">
+    <title>т/с Эпизод, где доктор Рэморе умирает</title>
   </programme>
-  <programme start="20261107090000 +0300" stop="20261107094300 +0300" channel="vf-series">
-    <title>т/с Пространство 10 с.</title>
+  <programme start="20261110193500 +0300" stop="20261110195800 +0300" channel="vf-friends">
+    <title>т/с Эпизод, где Эдди не хочет выселяться</title>
   </programme>
-  <programme start="20261107094300 +0300" stop="20261107102900 +0300" channel="vf-series">
-    <title>т/с Засланец из космоса 1 с.</title>
+  <programme start="20261110195800 +0300" stop="20261110202100 +0300" channel="vf-friends">
+    <title>т/с Эпизод, где старый Йеллер умирает</title>
   </programme>
-  <programme start="20261107102900 +0300" stop="20261107111300 +0300" channel="vf-series">
-    <title>т/с Засланец из космоса 2 с.</title>
+  <programme start="20261110202100 +0300" stop="20261110204400 +0300" channel="vf-friends">
+    <title>т/с Эпизод с хулиганами</title>
   </programme>
-  <programme start="20261107111300 +0300" stop="20261107115700 +0300" channel="vf-series">
-    <title>т/с Засланец из космоса 3 с.</title>
+  <programme start="20261110204400 +0300" stop="20261110210600 +0300" channel="vf-friends">
+    <title>т/с Эпизод с двумя вечеринками</title>
   </programme>
-  <programme start="20261107115700 +0300" stop="20261107124100 +0300" channel="vf-series">
-    <title>т/с Засланец из космоса 4 с.</title>
+  <programme start="20261110210600 +0300" stop="20261110212900 +0300" channel="vf-friends">
+    <title>т/с Эпизод с ветрянкой</title>
   </programme>
-  <programme start="20261107124100 +0300" stop="20261107132700 +0300" channel="vf-series">
-    <title>т/с Засланец из космоса 5 с.</title>
+  <programme start="20261110212900 +0300" stop="20261110215200 +0300" channel="vf-friends">
+    <title>т/с Эпизод со свадьбой Барри и Минди</title>
   </programme>
-  <programme start="20261107132700 +0300" stop="20261107141300 +0300" channel="vf-series">
-    <title>т/с Засланец из космоса 6 с.</title>
+  <programme start="20261110215200 +0300" stop="20261110221500 +0300" channel="vf-friends">
+    <title>т/с Эпизод с фантазией о принцессе Лейе</title>
   </programme>
-  <programme start="20261107141300 +0300" stop="20261107145900 +0300" channel="vf-series">
-    <title>т/с Засланец из космоса 7 с.</title>
+  <programme start="20261110221500 +0300" stop="20261110223700 +0300" channel="vf-friends">
+    <title>т/с Эпизод, где никто не готов</title>
   </programme>
-  <programme start="20261107145900 +0300" stop="20261107154400 +0300" channel="vf-series">
-    <title>т/с Засланец из космоса 8 с.</title>
+  <programme start="20261110223700 +0300" stop="20261110230000 +0300" channel="vf-friends">
+    <title>т/с Эпизод с джемом</title>
   </programme>
-  <programme start="20261107154400 +0300" stop="20261107162900 +0300" channel="vf-series">
-    <title>т/с Засланец из космоса 9 с.</title>
+  <programme start="20261110230000 +0300" stop="20261110232300 +0300" channel="vf-friends">
+    <title>т/с Эпизод с метафорическим туннелем</title>
   </programme>
-  <programme start="20261107162900 +0300" stop="20261107171500 +0300" channel="vf-series">
-    <title>т/с Засланец из космоса 10 с.</title>
+  <programme start="20261110232300 +0300" stop="20261110234600 +0300" channel="vf-friends">
+    <title>т/с Эпизод с Фрэнком-младшим</title>
   </programme>
-  <programme start="20261107171500 +0300" stop="20261107181400 +0300" channel="vf-series">
-    <title>т/с Наследники 1 с.</title>
+  <programme start="20261110234600 +0300" stop="20261111000900 +0300" channel="vf-friends">
+    <title>т/с Эпизод с ретроспективным кадром</title>
   </programme>
-  <programme start="20261107181400 +0300" stop="20261107191200 +0300" channel="vf-series">
-    <title>т/с Наследники 2 с.</title>
+  <programme start="20261111000900 +0300" stop="20261111003100 +0300" channel="vf-friends">
+    <title>т/с Эпизод с кроватью в виде гоночного автомобиля</title>
   </programme>
-  <programme start="20261107191200 +0300" stop="20261107200800 +0300" channel="vf-series">
-    <title>т/с Наследники 3 с.</title>
+  <programme start="20261111003100 +0300" stop="20261111005400 +0300" channel="vf-friends">
+    <title>т/с Эпизод с гигантским тыкающим устройством</title>
   </programme>
-  <programme start="20261107200800 +0300" stop="20261107210900 +0300" channel="vf-series">
-    <title>т/с Наследники 4 с.</title>
+  <programme start="20261111005400 +0300" stop="20261111011700 +0300" channel="vf-friends">
+    <title>т/с Эпизод с футболом</title>
   </programme>
-  <programme start="20261107210900 +0300" stop="20261107220400 +0300" channel="vf-series">
-    <title>т/с Наследники 5 с.</title>
+  <programme start="20261111011700 +0300" stop="20261111014000 +0300" channel="vf-friends">
+    <title>т/с Эпизод, где Рейчел увольняется</title>
   </programme>
-  <programme start="20261107220400 +0300" stop="20261107230300 +0300" channel="vf-series">
-    <title>т/с Наследники 6 с.</title>
+  <programme start="20261111014000 +0300" stop="20261111020300 +0300" channel="vf-friends">
+    <title>т/с Эпизод, где Чендлер не помнит, какая сестра</title>
   </programme>
-  <programme start="20261107230300 +0300" stop="20261108000000 +0300" channel="vf-series">
-    <title>т/с Наследники 7 с.</title>
+  <programme start="20261111020300 +0300" stop="20261111022500 +0300" channel="vf-friends">
+    <title>т/с Эпизод с ревностью всех</title>
+  </programme>
+  <programme start="20261111022500 +0300" stop="20261111024800 +0300" channel="vf-friends">
+    <title>т/с Эпизод, где Моника и Ричард просто друзья</title>
+  </programme>
+  <programme start="20261111024800 +0300" stop="20261111031100 +0300" channel="vf-friends">
+    <title>т/с Эпизод с экс-партнёром Фиби</title>
+  </programme>
+  <programme start="20261111031100 +0300" stop="20261111033400 +0300" channel="vf-friends">
+    <title>т/с Эпизод, где Росс и Рейчел делают перерыв</title>
+  </programme>
+  <programme start="20261111033400 +0300" stop="20261111035700 +0300" channel="vf-friends">
+    <title>т/с Эпизод, когда наступает утро после</title>
+  </programme>
+  <programme start="20261111035700 +0300" stop="20261111042000 +0300" channel="vf-friends">
+    <title>т/с Эпизод с лыжной поездкой</title>
+  </programme>
+  <programme start="20261111042000 +0300" stop="20261111044200 +0300" channel="vf-friends">
+    <title>т/с Эпизод с кассетой гипноза</title>
+  </programme>
+  <programme start="20261111044200 +0300" stop="20261111050500 +0300" channel="vf-friends">
+    <title>т/с Эпизод с крошечной футболкой</title>
+  </programme>
+  <programme start="20261111050500 +0300" stop="20261111052800 +0300" channel="vf-friends">
+    <title>т/с Эпизод с кукольным домиком</title>
+  </programme>
+  <programme start="20261111052800 +0300" stop="20261111055100 +0300" channel="vf-friends">
+    <title>т/с Эпизод с цыплёнком и уткой</title>
+  </programme>
+  <programme start="20261111055100 +0300" stop="20261111061400 +0300" channel="vf-friends">
+    <title>т/с Эпизод с крикуном</title>
+  </programme>
+  <programme start="20261111061400 +0300" stop="20261111063600 +0300" channel="vf-friends">
+    <title>т/с Эпизод со штучкой Росса</title>
+  </programme>
+  <programme start="20261111063600 +0300" stop="20261111065900 +0300" channel="vf-friends">
+    <title>т/с Эпизод с чемпионом по боям без правил</title>
+  </programme>
+  <programme start="20261111065900 +0300" stop="20261111072200 +0300" channel="vf-friends">
+    <title>т/с Эпизод на пляже</title>
+  </programme>
+  <programme start="20261111072200 +0300" stop="20261111074500 +0300" channel="vf-friends">
+    <title>т/с Эпизод с медузой</title>
+  </programme>
+  <programme start="20261111074500 +0300" stop="20261111080700 +0300" channel="vf-friends">
+    <title>т/с Эпизод с кошкой</title>
+  </programme>
+  <programme start="20261111080700 +0300" stop="20261111082900 +0300" channel="vf-friends">
+    <title>т/с Эпизод с наручниками</title>
+  </programme>
+  <programme start="20261111082900 +0300" stop="20261111085100 +0300" channel="vf-friends">
+    <title>т/с Эпизод с танцем для бала</title>
+  </programme>
+  <programme start="20261111085100 +0300" stop="20261111091400 +0300" channel="vf-friends">
+    <title>т/с Эпизод с новой подругой Джо</title>
+  </programme>
+  <programme start="20261111091400 +0300" stop="20261111093600 +0300" channel="vf-friends">
+    <title>т/с Эпизод с девушкой-грязнулей</title>
+  </programme>
+  <programme start="20261111093600 +0300" stop="20261111095800 +0300" channel="vf-friends">
+    <title>т/с Эпизод, где Чендлер пересекает черту</title>
+  </programme>
+  <programme start="20261111095800 +0300" stop="20261111102100 +0300" channel="vf-friends">
+    <title>т/с Эпизод с Чендлером в ящике</title>
+  </programme>
+  <programme start="20261111102100 +0300" stop="20261111104300 +0300" channel="vf-friends">
+    <title>т/с Эпизод, где они идут на вечеринку!</title>
+  </programme>
+  <programme start="20261111104300 +0300" stop="20261111110600 +0300" channel="vf-friends">
+    <title>т/с Эпизод с девушкой из Пукипси</title>
+  </programme>
+  <programme start="20261111110600 +0300" stop="20261111112800 +0300" channel="vf-friends">
+    <title>т/с Эпизод с маткой Фиби</title>
+  </programme>
+  <programme start="20261111112800 +0300" stop="20261111115000 +0300" channel="vf-friends">
+    <title>т/с Эпизод с эмбрионами</title>
+  </programme>
+  <programme start="20261111115000 +0300" stop="20261111121200 +0300" channel="vf-friends">
+    <title>т/с Эпизод с влюблённостью Рэйчел</title>
+  </programme>
+  <programme start="20261111121200 +0300" stop="20261111123500 +0300" channel="vf-friends">
+    <title>т/с Эпизод с грязным днем Джо</title>
+  </programme>
+  <programme start="20261111123500 +0300" stop="20261111125700 +0300" channel="vf-friends">
+    <title>т/с Эпизод с регби</title>
+  </programme>
+  <programme start="20261111125700 +0300" stop="20261111131900 +0300" channel="vf-friends">
+    <title>т/с Эпизод с ложной вечеринкой</title>
+  </programme>
+  <programme start="20261111131900 +0300" stop="20261111134100 +0300" channel="vf-friends">
+    <title>т/с Эпизод с бесплатным порно</title>
+  </programme>
+  <programme start="20261111134100 +0300" stop="20261111140400 +0300" channel="vf-friends">
+    <title>т/с Эпизод с новым платьем Рэйчел</title>
+  </programme>
+  <programme start="20261111140400 +0300" stop="20261111142600 +0300" channel="vf-friends">
+    <title>т/с Эпизод, где все спешат</title>
+  </programme>
+  <programme start="20261111142600 +0300" stop="20261111144800 +0300" channel="vf-friends">
+    <title>т/с Эпизод со свадебными платьями</title>
+  </programme>
+  <programme start="20261111144800 +0300" stop="20261111151100 +0300" channel="vf-friends">
+    <title>т/с Эпизод с приглашениями</title>
+  </programme>
+  <programme start="20261111151100 +0300" stop="20261111161100 +0300" channel="vf-friends">
+    <title>т/с Эпизод с самым плохим шафером всех времён</title>
   </programme>
   <programme start="20261108000000 +0300" stop="20261108005600 +0300" channel="vf-series">
     <title>т/с Наследники 8 с.</title>
@@ -864,35 +897,68 @@
   <programme start="20261109045400 +0300" stop="20261109054500 +0300" channel="vf-series">
     <title>т/с Сокол и Зимний Солдат 3 с.</title>
   </programme>
+  <programme start="20261109054300 +0300" stop="20261109063400 +0300" channel="vf-series">
+    <title>т/с Сокол и Зимний Солдат 4 с.</title>
+  </programme>
   <programme start="20261109054500 +0300" stop="20261109063600 +0300" channel="vf-series">
     <title>т/с Сокол и Зимний Солдат 4 с.</title>
+  </programme>
+  <programme start="20261109063400 +0300" stop="20261109073100 +0300" channel="vf-series">
+    <title>т/с Сокол и Зимний Солдат 5 с.</title>
   </programme>
   <programme start="20261109063600 +0300" stop="20261109073400 +0300" channel="vf-series">
     <title>т/с Сокол и Зимний Солдат 5 с.</title>
   </programme>
+  <programme start="20261109073100 +0300" stop="20261109082200 +0300" channel="vf-series">
+    <title>т/с Сокол и Зимний Солдат 6 с.</title>
+  </programme>
   <programme start="20261109073400 +0300" stop="20261109082300 +0300" channel="vf-series">
     <title>т/с Сокол и Зимний Солдат 6 с.</title>
+  </programme>
+  <programme start="20261109082200 +0300" stop="20261109091300 +0300" channel="vf-series">
+    <title>т/с Воспитанные волками 1 с.</title>
   </programme>
   <programme start="20261109082300 +0300" stop="20261109091600 +0300" channel="vf-series">
     <title>т/с Воспитанные волками 1 с.</title>
   </programme>
+  <programme start="20261109091300 +0300" stop="20261109095400 +0300" channel="vf-series">
+    <title>т/с Воспитанные волками 2 с.</title>
+  </programme>
   <programme start="20261109091600 +0300" stop="20261109095700 +0300" channel="vf-series">
     <title>т/с Воспитанные волками 2 с.</title>
+  </programme>
+  <programme start="20261109095400 +0300" stop="20261109104300 +0300" channel="vf-series">
+    <title>т/с Воспитанные волками 3 с.</title>
   </programme>
   <programme start="20261109095700 +0300" stop="20261109104500 +0300" channel="vf-series">
     <title>т/с Воспитанные волками 3 с.</title>
   </programme>
+  <programme start="20261109104300 +0300" stop="20261109112900 +0300" channel="vf-series">
+    <title>т/с Воспитанные волками 4 с.</title>
+  </programme>
   <programme start="20261109104500 +0300" stop="20261109113100 +0300" channel="vf-series">
     <title>т/с Воспитанные волками 4 с.</title>
+  </programme>
+  <programme start="20261109112900 +0300" stop="20261109122400 +0300" channel="vf-series">
+    <title>т/с Воспитанные волками 5 с.</title>
   </programme>
   <programme start="20261109113100 +0300" stop="20261109122600 +0300" channel="vf-series">
     <title>т/с Воспитанные волками 5 с.</title>
   </programme>
+  <programme start="20261109122400 +0300" stop="20261109131900 +0300" channel="vf-series">
+    <title>т/с Воспитанные волками 6 с.</title>
+  </programme>
   <programme start="20261109122600 +0300" stop="20261109132100 +0300" channel="vf-series">
     <title>т/с Воспитанные волками 6 с.</title>
   </programme>
+  <programme start="20261109131900 +0300" stop="20261109140800 +0300" channel="vf-series">
+    <title>т/с Воспитанные волками 7 с.</title>
+  </programme>
   <programme start="20261109132100 +0300" stop="20261109141000 +0300" channel="vf-series">
     <title>т/с Воспитанные волками 7 с.</title>
+  </programme>
+  <programme start="20261109140800 +0300" stop="20261109151400 +0300" channel="vf-series">
+    <title>т/с Воспитанные волками 8 с.</title>
   </programme>
   <programme start="20261109141000 +0300" stop="20261109145900 +0300" channel="vf-series">
     <title>т/с Воспитанные волками 8 с.</title>
@@ -900,118 +966,538 @@
   <programme start="20261109145900 +0300" stop="20261109154400 +0300" channel="vf-series">
     <title>т/с Воспитанные волками 9 с.</title>
   </programme>
+  <programme start="20261109151400 +0300" stop="20261109154200 +0300" channel="vf-series">
+    <title>т/с Воспитанные волками 9 с.</title>
+  </programme>
+  <programme start="20261109154200 +0300" stop="20261109163200 +0300" channel="vf-series">
+    <title>т/с Воспитанные волками 10 с.</title>
+  </programme>
   <programme start="20261109154400 +0300" stop="20261109163500 +0300" channel="vf-series">
     <title>т/с Воспитанные волками 10 с.</title>
+  </programme>
+  <programme start="20261109163200 +0300" stop="20261109172600 +0300" channel="vf-series">
+    <title>т/с Колесо времени 1 с.</title>
   </programme>
   <programme start="20261109163500 +0300" stop="20261109172900 +0300" channel="vf-series">
     <title>т/с Колесо времени 1 с.</title>
   </programme>
+  <programme start="20261109172600 +0300" stop="20261109182300 +0300" channel="vf-series">
+    <title>т/с Колесо времени 2 с.</title>
+  </programme>
   <programme start="20261109172900 +0300" stop="20261109182600 +0300" channel="vf-series">
     <title>т/с Колесо времени 2 с.</title>
+  </programme>
+  <programme start="20261109182300 +0300" stop="20261109192100 +0300" channel="vf-series">
+    <title>т/с Колесо времени 3 с.</title>
   </programme>
   <programme start="20261109182600 +0300" stop="20261109192300 +0300" channel="vf-series">
     <title>т/с Колесо времени 3 с.</title>
   </programme>
+  <programme start="20261109192100 +0300" stop="20261109202300 +0300" channel="vf-series">
+    <title>т/с Колесо времени 4 с.</title>
+  </programme>
   <programme start="20261109192300 +0300" stop="20261109202500 +0300" channel="vf-series">
     <title>т/с Колесо времени 4 с.</title>
+  </programme>
+  <programme start="20261109202300 +0300" stop="20261109212300 +0300" channel="vf-series">
+    <title>т/с Колесо времени 5 с.</title>
   </programme>
   <programme start="20261109202500 +0300" stop="20261109212500 +0300" channel="vf-series">
     <title>т/с Колесо времени 5 с.</title>
   </programme>
+  <programme start="20261109212300 +0300" stop="20261109222500 +0300" channel="vf-series">
+    <title>т/с Колесо времени 6 с.</title>
+  </programme>
   <programme start="20261109212500 +0300" stop="20261109222700 +0300" channel="vf-series">
     <title>т/с Колесо времени 6 с.</title>
+  </programme>
+  <programme start="20261109222500 +0300" stop="20261109232500 +0300" channel="vf-series">
+    <title>т/с Колесо времени 7 с.</title>
   </programme>
   <programme start="20261109222700 +0300" stop="20261109232700 +0300" channel="vf-series">
     <title>т/с Колесо времени 7 с.</title>
   </programme>
+  <programme start="20261109232500 +0300" stop="20261110002100 +0300" channel="vf-series">
+    <title>т/с Колесо времени 8 с.</title>
+  </programme>
   <programme start="20261109232700 +0300" stop="20261110002400 +0300" channel="vf-series">
     <title>т/с Колесо времени 8 с.</title>
+  </programme>
+  <programme start="20261110002100 +0300" stop="20261110011900 +0300" channel="vf-series">
+    <title>т/с Мейр из Исттауна. 1 с.</title>
   </programme>
   <programme start="20261110002400 +0300" stop="20261110012200 +0300" channel="vf-series">
     <title>т/с Мейр из Исттауна. 1 с.</title>
   </programme>
+  <programme start="20261110011900 +0300" stop="20261110021900 +0300" channel="vf-series">
+    <title>т/с Мейр из Исттауна. 2 с.</title>
+  </programme>
   <programme start="20261110012200 +0300" stop="20261110022200 +0300" channel="vf-series">
     <title>т/с Мейр из Исттауна. 2 с.</title>
+  </programme>
+  <programme start="20261110021900 +0300" stop="20261110032100 +0300" channel="vf-series">
+    <title>т/с Мейр из Исттауна. 3 с.</title>
   </programme>
   <programme start="20261110022200 +0300" stop="20261110032300 +0300" channel="vf-series">
     <title>т/с Мейр из Исттауна. 3 с.</title>
   </programme>
+  <programme start="20261110032100 +0300" stop="20261110042000 +0300" channel="vf-series">
+    <title>т/с Мейр из Исттауна. 4 с.</title>
+  </programme>
   <programme start="20261110032300 +0300" stop="20261110042200 +0300" channel="vf-series">
     <title>т/с Мейр из Исттауна. 4 с.</title>
+  </programme>
+  <programme start="20261110042000 +0300" stop="20261110052100 +0300" channel="vf-series">
+    <title>т/с Мейр из Исттауна. 5 с.</title>
   </programme>
   <programme start="20261110042200 +0300" stop="20261110052400 +0300" channel="vf-series">
     <title>т/с Мейр из Исттауна. 5 с.</title>
   </programme>
-  <programme start="20261110052400 +0300" stop="20261110062500 +0300" channel="vf-series">
+  <programme start="20261110052100 +0300" stop="20261110062200 +0300" channel="vf-series">
     <title>т/с Мейр из Исттауна. 6 с.</title>
   </programme>
-  <programme start="20261110062500 +0300" stop="20261110074100 +0300" channel="vf-series">
+  <programme start="20261110062200 +0300" stop="20261110073800 +0300" channel="vf-series">
     <title>т/с Мейр из Исттауна. 7 с.</title>
   </programme>
-  <programme start="20261110074100 +0300" stop="20261110080400 +0300" channel="vf-series">
+  <programme start="20261110073800 +0300" stop="20261110080100 +0300" channel="vf-series">
     <title>т/с Офис 1 с.</title>
   </programme>
-  <programme start="20261110080400 +0300" stop="20261110082600 +0300" channel="vf-series">
+  <programme start="20261110080100 +0300" stop="20261110082300 +0300" channel="vf-series">
     <title>т/с Офис 2 с.</title>
   </programme>
-  <programme start="20261110082600 +0300" stop="20261110084800 +0300" channel="vf-series">
+  <programme start="20261110082300 +0300" stop="20261110084500 +0300" channel="vf-series">
     <title>т/с Офис 3 с.</title>
   </programme>
-  <programme start="20261110084800 +0300" stop="20261110091000 +0300" channel="vf-series">
+  <programme start="20261110084500 +0300" stop="20261110090700 +0300" channel="vf-series">
     <title>т/с Офис 4 с.</title>
   </programme>
-  <programme start="20261110091000 +0300" stop="20261110093200 +0300" channel="vf-series">
+  <programme start="20261110090700 +0300" stop="20261110092900 +0300" channel="vf-series">
     <title>т/с Офис 5 с.</title>
   </programme>
-  <programme start="20261110093200 +0300" stop="20261110095400 +0300" channel="vf-series">
+  <programme start="20261110092900 +0300" stop="20261110095200 +0300" channel="vf-series">
     <title>т/с Офис 6 с.</title>
   </programme>
-  <programme start="20261110095400 +0300" stop="20261110105100 +0300" channel="vf-series">
+  <programme start="20261110095200 +0300" stop="20261110104800 +0300" channel="vf-series">
     <title>т/с Сцены из супружеской жизни 1 с.</title>
   </programme>
-  <programme start="20261110105100 +0300" stop="20261110115400 +0300" channel="vf-series">
+  <programme start="20261110104800 +0300" stop="20261110115200 +0300" channel="vf-series">
     <title>т/с Сцены из супружеской жизни 2 с.</title>
   </programme>
-  <programme start="20261110115400 +0300" stop="20261110125000 +0300" channel="vf-series">
+  <programme start="20261110115200 +0300" stop="20261110124800 +0300" channel="vf-series">
     <title>т/с Сцены из супружеской жизни 3 с.</title>
   </programme>
-  <programme start="20261110125000 +0300" stop="20261110135600 +0300" channel="vf-series">
+  <programme start="20261110124800 +0300" stop="20261110135400 +0300" channel="vf-series">
     <title>т/с Сцены из супружеской жизни 4 с.</title>
   </programme>
-  <programme start="20261110135600 +0300" stop="20261110145200 +0300" channel="vf-series">
+  <programme start="20261110135400 +0300" stop="20261110145000 +0300" channel="vf-series">
     <title>т/с Сцены из супружеской жизни 5 с.</title>
   </programme>
-  <programme start="20261110145200 +0300" stop="20261110154300 +0300" channel="vf-series">
+  <programme start="20261110145000 +0300" stop="20261110154100 +0300" channel="vf-series">
     <title>т/с Локи 1 с.</title>
   </programme>
-  <programme start="20261110154300 +0300" stop="20261110163700 +0300" channel="vf-series">
+  <programme start="20261110154100 +0300" stop="20261110163400 +0300" channel="vf-series">
     <title>т/с Локи 2 с.</title>
   </programme>
-  <programme start="20261110163700 +0300" stop="20261110171800 +0300" channel="vf-series">
+  <programme start="20261110163400 +0300" stop="20261110171500 +0300" channel="vf-series">
     <title>т/с Локи 3 с.</title>
   </programme>
-  <programme start="20261110171800 +0300" stop="20261110180500 +0300" channel="vf-series">
+  <programme start="20261110171500 +0300" stop="20261110180300 +0300" channel="vf-series">
     <title>т/с Локи 4 с.</title>
   </programme>
-  <programme start="20261110180500 +0300" stop="20261110185400 +0300" channel="vf-series">
+  <programme start="20261110180300 +0300" stop="20261110185100 +0300" channel="vf-series">
     <title>т/с Локи 5 с.</title>
   </programme>
-  <programme start="20261110185400 +0300" stop="20261110193900 +0300" channel="vf-series">
+  <programme start="20261110185100 +0300" stop="20261110193700 +0300" channel="vf-series">
     <title>т/с Локи 6 с.</title>
   </programme>
-  <programme start="20261110193900 +0300" stop="20261110203600 +0300" channel="vf-series">
+  <programme start="20261110193700 +0300" stop="20261110203400 +0300" channel="vf-series">
     <title>т/с Настоящий детектив 1 с.</title>
   </programme>
-  <programme start="20261110203600 +0300" stop="20261110213200 +0300" channel="vf-series">
+  <programme start="20261110203400 +0300" stop="20261110213000 +0300" channel="vf-series">
     <title>т/с Настоящий детектив 2 с.</title>
   </programme>
-  <programme start="20261110213200 +0300" stop="20261110222800 +0300" channel="vf-series">
+  <programme start="20261110213000 +0300" stop="20261110222600 +0300" channel="vf-series">
     <title>т/с Настоящий детектив 3 с.</title>
   </programme>
-  <programme start="20261110222800 +0300" stop="20261110232300 +0300" channel="vf-series">
+  <programme start="20261110222600 +0300" stop="20261110232000 +0300" channel="vf-series">
     <title>т/с Настоящий детектив 4 с.</title>
   </programme>
-  <programme start="20261110232300 +0300" stop="20261111002300 +0300" channel="vf-series">
+  <programme start="20261110232000 +0300" stop="20261111001500 +0300" channel="vf-series">
     <title>т/с Настоящий детектив 5 с.</title>
+  </programme>
+  <programme start="20261111001500 +0300" stop="20261111011200 +0300" channel="vf-series">
+    <title>т/с Настоящий детектив 6 с.</title>
+  </programme>
+  <programme start="20261111011200 +0300" stop="20261111020300 +0300" channel="vf-series">
+    <title>т/с Настоящий детектив 7 с.</title>
+  </programme>
+  <programme start="20261111020300 +0300" stop="20261111025600 +0300" channel="vf-series">
+    <title>т/с Настоящий детектив 8 с.</title>
+  </programme>
+  <programme start="20261111025600 +0300" stop="20261111034100 +0300" channel="vf-series">
+    <title>т/с Пространство 1 с.</title>
+  </programme>
+  <programme start="20261111034100 +0300" stop="20261111042400 +0300" channel="vf-series">
+    <title>т/с Пространство 2 с.</title>
+  </programme>
+  <programme start="20261111042400 +0300" stop="20261111050700 +0300" channel="vf-series">
+    <title>т/с Пространство 3 с.</title>
+  </programme>
+  <programme start="20261111050700 +0300" stop="20261111054900 +0300" channel="vf-series">
+    <title>т/с Пространство 4 с.</title>
+  </programme>
+  <programme start="20261111054900 +0300" stop="20261111063200 +0300" channel="vf-series">
+    <title>т/с Пространство 5 с.</title>
+  </programme>
+  <programme start="20261111063200 +0300" stop="20261111071500 +0300" channel="vf-series">
+    <title>т/с Пространство 6 с.</title>
+  </programme>
+  <programme start="20261111071500 +0300" stop="20261111075800 +0300" channel="vf-series">
+    <title>т/с Пространство 7 с.</title>
+  </programme>
+  <programme start="20261111075800 +0300" stop="20261111084100 +0300" channel="vf-series">
+    <title>т/с Пространство 8 с.</title>
+  </programme>
+  <programme start="20261111084100 +0300" stop="20261111092200 +0300" channel="vf-series">
+    <title>т/с Пространство 9 с.</title>
+  </programme>
+  <programme start="20261111092200 +0300" stop="20261111100500 +0300" channel="vf-series">
+    <title>т/с Пространство 10 с.</title>
+  </programme>
+  <programme start="20261111100500 +0300" stop="20261111105100 +0300" channel="vf-series">
+    <title>т/с Засланец из космоса 1 с.</title>
+  </programme>
+  <programme start="20261111105100 +0300" stop="20261111113500 +0300" channel="vf-series">
+    <title>т/с Засланец из космоса 2 с.</title>
+  </programme>
+  <programme start="20261111113500 +0300" stop="20261111121900 +0300" channel="vf-series">
+    <title>т/с Засланец из космоса 3 с.</title>
+  </programme>
+  <programme start="20261111121900 +0300" stop="20261111130300 +0300" channel="vf-series">
+    <title>т/с Засланец из космоса 4 с.</title>
+  </programme>
+  <programme start="20261111130300 +0300" stop="20261111134900 +0300" channel="vf-series">
+    <title>т/с Засланец из космоса 5 с.</title>
+  </programme>
+  <programme start="20261111134900 +0300" stop="20261111143500 +0300" channel="vf-series">
+    <title>т/с Засланец из космоса 6 с.</title>
+  </programme>
+  <programme start="20261111143500 +0300" stop="20261111152100 +0300" channel="vf-series">
+    <title>т/с Засланец из космоса 7 с.</title>
+  </programme>
+  <programme start="20261111152100 +0300" stop="20261111160600 +0300" channel="vf-series">
+    <title>т/с Засланец из космоса 8 с.</title>
+  </programme>
+  <programme start="20261111160600 +0300" stop="20261111165100 +0300" channel="vf-series">
+    <title>т/с Засланец из космоса 9 с.</title>
+  </programme>
+  <programme start="20261111165100 +0300" stop="20261111173600 +0300" channel="vf-series">
+    <title>т/с Засланец из космоса 10 с.</title>
+  </programme>
+  <programme start="20261111173600 +0300" stop="20261111183600 +0300" channel="vf-series">
+    <title>т/с Наследники 1 с.</title>
+  </programme>
+  <programme start="20261111183600 +0300" stop="20261111193400 +0300" channel="vf-series">
+    <title>т/с Наследники 2 с.</title>
+  </programme>
+  <programme start="20261111193400 +0300" stop="20261111203000 +0300" channel="vf-series">
+    <title>т/с Наследники 3 с.</title>
+  </programme>
+  <programme start="20261111203000 +0300" stop="20261111213100 +0300" channel="vf-series">
+    <title>т/с Наследники 4 с.</title>
+  </programme>
+  <programme start="20261111213100 +0300" stop="20261111222600 +0300" channel="vf-series">
+    <title>т/с Наследники 5 с.</title>
+  </programme>
+  <programme start="20261111222600 +0300" stop="20261111232400 +0300" channel="vf-series">
+    <title>т/с Наследники 6 с.</title>
+  </programme>
+  <programme start="20261111232400 +0300" stop="20261112002200 +0300" channel="vf-series">
+    <title>т/с Наследники 7 с.</title>
+  </programme>
+  <programme start="20261112002200 +0300" stop="20261112011800 +0300" channel="vf-series">
+    <title>т/с Наследники 8 с.</title>
+  </programme>
+  <programme start="20261112011800 +0300" stop="20261112021600 +0300" channel="vf-series">
+    <title>т/с Наследники 9 с.</title>
+  </programme>
+  <programme start="20261112021600 +0300" stop="20261112032100 +0300" channel="vf-series">
+    <title>т/с Наследники 10 с.</title>
+  </programme>
+  <programme start="20261112032100 +0300" stop="20261112035400 +0300" channel="vf-series">
+    <title>т/с Убийства в одном здании 1 с.</title>
+  </programme>
+  <programme start="20261112035400 +0300" stop="20261112042300 +0300" channel="vf-series">
+    <title>т/с Убийства в одном здании 2 с.</title>
+  </programme>
+  <programme start="20261112042300 +0300" stop="20261112045800 +0300" channel="vf-series">
+    <title>т/с Убийства в одном здании 3 с.</title>
+  </programme>
+  <programme start="20261112045800 +0300" stop="20261112053200 +0300" channel="vf-series">
+    <title>т/с Убийства в одном здании 4 с.</title>
+  </programme>
+  <programme start="20261112053200 +0300" stop="20261112055800 +0300" channel="vf-series">
+    <title>т/с Убийства в одном здании 5 с.</title>
+  </programme>
+  <programme start="20261112055800 +0300" stop="20261112063000 +0300" channel="vf-series">
+    <title>т/с Убийства в одном здании 6 с.</title>
+  </programme>
+  <programme start="20261112063000 +0300" stop="20261112070100 +0300" channel="vf-series">
+    <title>т/с Убийства в одном здании 7 с.</title>
+  </programme>
+  <programme start="20261112070100 +0300" stop="20261112073200 +0300" channel="vf-series">
+    <title>т/с Убийства в одном здании 8 с.</title>
+  </programme>
+  <programme start="20261112073200 +0300" stop="20261112080400 +0300" channel="vf-series">
+    <title>т/с Убийства в одном здании 9 с.</title>
+  </programme>
+  <programme start="20261112080400 +0300" stop="20261112084000 +0300" channel="vf-series">
+    <title>т/с Убийства в одном здании 10 с.</title>
+  </programme>
+  <programme start="20261112084000 +0300" stop="20261112094900 +0300" channel="vf-series">
+    <title>т/с Основание 1 с.</title>
+  </programme>
+  <programme start="20261112094900 +0300" stop="20261112105100 +0300" channel="vf-series">
+    <title>т/с Основание 2 с.</title>
+  </programme>
+  <programme start="20261112105100 +0300" stop="20261112114000 +0300" channel="vf-series">
+    <title>т/с Основание 3 с.</title>
+  </programme>
+  <programme start="20261112114000 +0300" stop="20261112122500 +0300" channel="vf-series">
+    <title>т/с Основание 4 с.</title>
+  </programme>
+  <programme start="20261112122500 +0300" stop="20261112131900 +0300" channel="vf-series">
+    <title>т/с Основание 5 с.</title>
+  </programme>
+  <programme start="20261112131900 +0300" stop="20261112141400 +0300" channel="vf-series">
+    <title>т/с Основание 6 с.</title>
+  </programme>
+  <programme start="20261112141400 +0300" stop="20261112150300 +0300" channel="vf-series">
+    <title>т/с Основание 7 с.</title>
+  </programme>
+  <programme start="20261112150300 +0300" stop="20261112160000 +0300" channel="vf-series">
+    <title>т/с Основание 8 с.</title>
+  </programme>
+  <programme start="20261112160000 +0300" stop="20261112165700 +0300" channel="vf-series">
+    <title>т/с Основание 9 с.</title>
+  </programme>
+  <programme start="20261112165700 +0300" stop="20261112175600 +0300" channel="vf-series">
+    <title>т/с Основание 10 с.</title>
+  </programme>
+  <programme start="20261112175600 +0300" stop="20261112182600 +0300" channel="vf-series">
+    <title>т/с Силиконовая долина 1 с.</title>
+  </programme>
+  <programme start="20261112182600 +0300" stop="20261112185400 +0300" channel="vf-series">
+    <title>т/с Силиконовая долина 2 с.</title>
+  </programme>
+  <programme start="20261112185400 +0300" stop="20261112192400 +0300" channel="vf-series">
+    <title>т/с Силиконовая долина 3 с.</title>
+  </programme>
+  <programme start="20261112192400 +0300" stop="20261112195300 +0300" channel="vf-series">
+    <title>т/с Силиконовая долина 4 с.</title>
+  </programme>
+  <programme start="20261112195300 +0300" stop="20261112202100 +0300" channel="vf-series">
+    <title>т/с Силиконовая долина 5 с.</title>
+  </programme>
+  <programme start="20261112202100 +0300" stop="20261112205000 +0300" channel="vf-series">
+    <title>т/с Силиконовая долина 6 с.</title>
+  </programme>
+  <programme start="20261112205000 +0300" stop="20261112211900 +0300" channel="vf-series">
+    <title>т/с Силиконовая долина 7 с.</title>
+  </programme>
+  <programme start="20261112211900 +0300" stop="20261112214700 +0300" channel="vf-series">
+    <title>т/с Силиконовая долина 8 с.</title>
+  </programme>
+  <programme start="20261112214700 +0300" stop="20261112224100 +0300" channel="vf-series">
+    <title>т/с Мальчик с оленьими рогами 1 с.</title>
+  </programme>
+  <programme start="20261112224100 +0300" stop="20261112233000 +0300" channel="vf-series">
+    <title>т/с Мальчик с оленьими рогами 2 с.</title>
+  </programme>
+  <programme start="20261112233000 +0300" stop="20261113001200 +0300" channel="vf-series">
+    <title>т/с Мальчик с оленьими рогами 3 с.</title>
+  </programme>
+  <programme start="20261113001200 +0300" stop="20261113005400 +0300" channel="vf-series">
+    <title>т/с Мальчик с оленьими рогами 4 с.</title>
+  </programme>
+  <programme start="20261113005400 +0300" stop="20261113013300 +0300" channel="vf-series">
+    <title>т/с Мальчик с оленьими рогами 5 с.</title>
+  </programme>
+  <programme start="20261113013300 +0300" stop="20261113021400 +0300" channel="vf-series">
+    <title>т/с Мальчик с оленьими рогами 6 с.</title>
+  </programme>
+  <programme start="20261113021400 +0300" stop="20261113025200 +0300" channel="vf-series">
+    <title>т/с Мальчик с оленьими рогами 7 с.</title>
+  </programme>
+  <programme start="20261113025200 +0300" stop="20261113034500 +0300" channel="vf-series">
+    <title>т/с Мальчик с оленьими рогами 8 с.</title>
+  </programme>
+  <programme start="20261113034500 +0300" stop="20261113043300 +0300" channel="vf-series">
+    <title>т/с Сокол и Зимний Солдат 1 с.</title>
+  </programme>
+  <programme start="20261113043300 +0300" stop="20261113052000 +0300" channel="vf-series">
+    <title>т/с Сокол и Зимний Солдат 2 с.</title>
+  </programme>
+  <programme start="20261113052000 +0300" stop="20261113061100 +0300" channel="vf-series">
+    <title>т/с Сокол и Зимний Солдат 3 с.</title>
+  </programme>
+  <programme start="20261113061100 +0300" stop="20261113070200 +0300" channel="vf-series">
+    <title>т/с Сокол и Зимний Солдат 4 с.</title>
+  </programme>
+  <programme start="20261113070200 +0300" stop="20261113075900 +0300" channel="vf-series">
+    <title>т/с Сокол и Зимний Солдат 5 с.</title>
+  </programme>
+  <programme start="20261113075900 +0300" stop="20261113084800 +0300" channel="vf-series">
+    <title>т/с Сокол и Зимний Солдат 6 с.</title>
+  </programme>
+  <programme start="20261113084800 +0300" stop="20261113094100 +0300" channel="vf-series">
+    <title>т/с Воспитанные волками 1 с.</title>
+  </programme>
+  <programme start="20261113094100 +0300" stop="20261113102200 +0300" channel="vf-series">
+    <title>т/с Воспитанные волками 2 с.</title>
+  </programme>
+  <programme start="20261113102200 +0300" stop="20261113111100 +0300" channel="vf-series">
+    <title>т/с Воспитанные волками 3 с.</title>
+  </programme>
+  <programme start="20261113111100 +0300" stop="20261113115700 +0300" channel="vf-series">
+    <title>т/с Воспитанные волками 4 с.</title>
+  </programme>
+  <programme start="20261113115700 +0300" stop="20261113125200 +0300" channel="vf-series">
+    <title>т/с Воспитанные волками 5 с.</title>
+  </programme>
+  <programme start="20261113125200 +0300" stop="20261113134700 +0300" channel="vf-series">
+    <title>т/с Воспитанные волками 6 с.</title>
+  </programme>
+  <programme start="20261113134700 +0300" stop="20261113143600 +0300" channel="vf-series">
+    <title>т/с Воспитанные волками 7 с.</title>
+  </programme>
+  <programme start="20261113143600 +0300" stop="20261113152500 +0300" channel="vf-series">
+    <title>т/с Воспитанные волками 8 с.</title>
+  </programme>
+  <programme start="20261113152500 +0300" stop="20261113161000 +0300" channel="vf-series">
+    <title>т/с Воспитанные волками 9 с.</title>
+  </programme>
+  <programme start="20261113161000 +0300" stop="20261113170000 +0300" channel="vf-series">
+    <title>т/с Воспитанные волками 10 с.</title>
+  </programme>
+  <programme start="20261113170000 +0300" stop="20261113175400 +0300" channel="vf-series">
+    <title>т/с Колесо времени 1 с.</title>
+  </programme>
+  <programme start="20261113175400 +0300" stop="20261113185100 +0300" channel="vf-series">
+    <title>т/с Колесо времени 2 с.</title>
+  </programme>
+  <programme start="20261113185100 +0300" stop="20261113194900 +0300" channel="vf-series">
+    <title>т/с Колесо времени 3 с.</title>
+  </programme>
+  <programme start="20261113194900 +0300" stop="20261113205100 +0300" channel="vf-series">
+    <title>т/с Колесо времени 4 с.</title>
+  </programme>
+  <programme start="20261113205100 +0300" stop="20261113215100 +0300" channel="vf-series">
+    <title>т/с Колесо времени 5 с.</title>
+  </programme>
+  <programme start="20261113215100 +0300" stop="20261113225300 +0300" channel="vf-series">
+    <title>т/с Колесо времени 6 с.</title>
+  </programme>
+  <programme start="20261113225300 +0300" stop="20261113235300 +0300" channel="vf-series">
+    <title>т/с Колесо времени 7 с.</title>
+  </programme>
+  <programme start="20261113235300 +0300" stop="20261114004900 +0300" channel="vf-series">
+    <title>т/с Колесо времени 8 с.</title>
+  </programme>
+  <programme start="20261114004900 +0300" stop="20261114014700 +0300" channel="vf-series">
+    <title>т/с Мейр из Исттауна. 1 с.</title>
+  </programme>
+  <programme start="20261114014700 +0300" stop="20261114024700 +0300" channel="vf-series">
+    <title>т/с Мейр из Исттауна. 2 с.</title>
+  </programme>
+  <programme start="20261114024700 +0300" stop="20261114034900 +0300" channel="vf-series">
+    <title>т/с Мейр из Исттауна. 3 с.</title>
+  </programme>
+  <programme start="20261114034900 +0300" stop="20261114044800 +0300" channel="vf-series">
+    <title>т/с Мейр из Исттауна. 4 с.</title>
+  </programme>
+  <programme start="20261114044800 +0300" stop="20261114054900 +0300" channel="vf-series">
+    <title>т/с Мейр из Исттауна. 5 с.</title>
+  </programme>
+  <programme start="20261114054900 +0300" stop="20261114065000 +0300" channel="vf-series">
+    <title>т/с Мейр из Исттауна. 6 с.</title>
+  </programme>
+  <programme start="20261114065000 +0300" stop="20261114080600 +0300" channel="vf-series">
+    <title>т/с Мейр из Исттауна. 7 с.</title>
+  </programme>
+  <programme start="20261114080600 +0300" stop="20261114082900 +0300" channel="vf-series">
+    <title>т/с Офис 1 с.</title>
+  </programme>
+  <programme start="20261114082900 +0300" stop="20261114085100 +0300" channel="vf-series">
+    <title>т/с Офис 2 с.</title>
+  </programme>
+  <programme start="20261114085100 +0300" stop="20261114091300 +0300" channel="vf-series">
+    <title>т/с Офис 3 с.</title>
+  </programme>
+  <programme start="20261114091300 +0300" stop="20261114093500 +0300" channel="vf-series">
+    <title>т/с Офис 4 с.</title>
+  </programme>
+  <programme start="20261114093500 +0300" stop="20261114095700 +0300" channel="vf-series">
+    <title>т/с Офис 5 с.</title>
+  </programme>
+  <programme start="20261114095700 +0300" stop="20261114102000 +0300" channel="vf-series">
+    <title>т/с Офис 6 с.</title>
+  </programme>
+  <programme start="20261114102000 +0300" stop="20261114111600 +0300" channel="vf-series">
+    <title>т/с Сцены из супружеской жизни 1 с.</title>
+  </programme>
+  <programme start="20261114111600 +0300" stop="20261114122000 +0300" channel="vf-series">
+    <title>т/с Сцены из супружеской жизни 2 с.</title>
+  </programme>
+  <programme start="20261114122000 +0300" stop="20261114131600 +0300" channel="vf-series">
+    <title>т/с Сцены из супружеской жизни 3 с.</title>
+  </programme>
+  <programme start="20261114131600 +0300" stop="20261114142200 +0300" channel="vf-series">
+    <title>т/с Сцены из супружеской жизни 4 с.</title>
+  </programme>
+  <programme start="20261114142200 +0300" stop="20261114151800 +0300" channel="vf-series">
+    <title>т/с Сцены из супружеской жизни 5 с.</title>
+  </programme>
+  <programme start="20261114151800 +0300" stop="20261114160900 +0300" channel="vf-series">
+    <title>т/с Локи 1 с.</title>
+  </programme>
+  <programme start="20261114160900 +0300" stop="20261114170200 +0300" channel="vf-series">
+    <title>т/с Локи 2 с.</title>
+  </programme>
+  <programme start="20261114170200 +0300" stop="20261114174300 +0300" channel="vf-series">
+    <title>т/с Локи 3 с.</title>
+  </programme>
+  <programme start="20261114174300 +0300" stop="20261114183100 +0300" channel="vf-series">
+    <title>т/с Локи 4 с.</title>
+  </programme>
+  <programme start="20261114183100 +0300" stop="20261114191900 +0300" channel="vf-series">
+    <title>т/с Локи 5 с.</title>
+  </programme>
+  <programme start="20261114191900 +0300" stop="20261114200500 +0300" channel="vf-series">
+    <title>т/с Локи 6 с.</title>
+  </programme>
+  <programme start="20261114200500 +0300" stop="20261114210200 +0300" channel="vf-series">
+    <title>т/с Настоящий детектив 1 с.</title>
+  </programme>
+  <programme start="20261114210200 +0300" stop="20261114215800 +0300" channel="vf-series">
+    <title>т/с Настоящий детектив 2 с.</title>
+  </programme>
+  <programme start="20261114215800 +0300" stop="20261114225400 +0300" channel="vf-series">
+    <title>т/с Настоящий детектив 3 с.</title>
+  </programme>
+  <programme start="20261114225400 +0300" stop="20261114234800 +0300" channel="vf-series">
+    <title>т/с Настоящий детектив 4 с.</title>
+  </programme>
+  <programme start="20261114234800 +0300" stop="20261115004300 +0300" channel="vf-series">
+    <title>т/с Настоящий детектив 5 с.</title>
+  </programme>
+  <programme start="20261115004300 +0300" stop="20261115014000 +0300" channel="vf-series">
+    <title>т/с Настоящий детектив 6 с.</title>
+  </programme>
+  <programme start="20261115014000 +0300" stop="20261115023100 +0300" channel="vf-series">
+    <title>т/с Настоящий детектив 7 с.</title>
+  </programme>
+  <programme start="20261115023100 +0300" stop="20261115033100 +0300" channel="vf-series">
+    <title>т/с Настоящий детектив 8 с.</title>
   </programme>
 </tv>
