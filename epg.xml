@@ -12,183 +12,6 @@
     <display-name lang="ru">VF Клиника</display-name>
     <icon src="https://iptvx.one/picons/vf-klinika.png" />
   </channel>
-  <programme start="20261124001800 +0300" stop="20261124004100 +0300" channel="vf-friends">
-    <title>т/с Эпизод с видеозаписью</title>
-  </programme>
-  <programme start="20261124004100 +0300" stop="20261124010200 +0300" channel="vf-friends">
-    <title>т/с Эпизод со свиданием Рэйчел</title>
-  </programme>
-  <programme start="20261124010200 +0300" stop="20261124012400 +0300" channel="vf-friends">
-    <title>т/с Эпизод с вечеринкой на Хэллоуин</title>
-  </programme>
-  <programme start="20261124012400 +0300" stop="20261124014600 +0300" channel="vf-friends">
-    <title>т/с Эпизод с пятном</title>
-  </programme>
-  <programme start="20261124014600 +0300" stop="20261124020800 +0300" channel="vf-friends">
-    <title>т/с Эпизод со стриптизершей</title>
-  </programme>
-  <programme start="20261124020800 +0300" stop="20261124023000 +0300" channel="vf-friends">
-    <title>т/с Эпизод со сплетней</title>
-  </programme>
-  <programme start="20261124023000 +0300" stop="20261124025200 +0300" channel="vf-friends">
-    <title>т/с Эпизод с сапожками Моники</title>
-  </programme>
-  <programme start="20261124025200 +0300" stop="20261124031400 +0300" channel="vf-friends">
-    <title>т/с Эпизод с серьезным шагом для Росса</title>
-  </programme>
-  <programme start="20261124031400 +0300" stop="20261124033600 +0300" channel="vf-friends">
-    <title>т/с Эпизод в котором Джо идет на свидание с Рэйчел</title>
-  </programme>
-  <programme start="20261124033600 +0300" stop="20261124035800 +0300" channel="vf-friends">
-    <title>т/с Эпизод в котором Чендлер принимает ванну</title>
-  </programme>
-  <programme start="20261124035800 +0300" stop="20261124042000 +0300" channel="vf-friends">
-    <title>т/с Эпизод про тайный чулан</title>
-  </programme>
-  <programme start="20261124042000 +0300" stop="20261124044200 +0300" channel="vf-friends">
-    <title>т/с Эпизод с видео о родах</title>
-  </programme>
-  <programme start="20261124044200 +0300" stop="20261124050300 +0300" channel="vf-friends">
-    <title>т/с Эпизод в котором Джо рассказывает Рэйчел</title>
-  </programme>
-  <programme start="20261124050300 +0300" stop="20261124052500 +0300" channel="vf-friends">
-    <title>т/с Эпизод с чайными листьями</title>
-  </programme>
-  <programme start="20261124052500 +0300" stop="20261124054700 +0300" channel="vf-friends">
-    <title>т/с Эпизод проходит в Массапеке</title>
-  </programme>
-  <programme start="20261124054700 +0300" stop="20261124060900 +0300" channel="vf-friends">
-    <title>т/с Эпизод с интервью Джо</title>
-  </programme>
-  <programme start="20261124060900 +0300" stop="20261124063100 +0300" channel="vf-friends">
-    <title>т/с Эпизод с детской вечеринкой</title>
-  </programme>
-  <programme start="20261124063100 +0300" stop="20261124065300 +0300" channel="vf-friends">
-    <title>т/с Эпизод с курсами кулинарии</title>
-  </programme>
-  <programme start="20261124065300 +0300" stop="20261124071500 +0300" channel="vf-friends">
-    <title>т/с Эпизод, где Рэйчел перенашивает</title>
-  </programme>
-  <programme start="20261124071500 +0300" stop="20261124073700 +0300" channel="vf-friends">
-    <title>т/с Эпизод в котором рождается ребёнок ┊ 1</title>
-  </programme>
-  <programme start="20261124073700 +0300" stop="20261124075900 +0300" channel="vf-friends">
-    <title>т/с Эпизод в котором рождается ребёнок ┊ 2</title>
-  </programme>
-  <programme start="20261124075900 +0300" stop="20261124082200 +0300" channel="vf-friends">
-    <title>т/с Эпизод в котором никто не делает предложения</title>
-  </programme>
-  <programme start="20261124082200 +0300" stop="20261124084500 +0300" channel="vf-friends">
-    <title>т/с Эпизод, где плачет Эмма</title>
-  </programme>
-  <programme start="20261124084500 +0300" stop="20261124090800 +0300" channel="vf-friends">
-    <title>т/с Эпизод с педиатром</title>
-  </programme>
-  <programme start="20261124090800 +0300" stop="20261124093200 +0300" channel="vf-friends">
-    <title>т/с Эпизод с акулами</title>
-  </programme>
-  <programme start="20261124093200 +0300" stop="20261124095500 +0300" channel="vf-friends">
-    <title>т/с Эпизод с днём рождения Фиби</title>
-  </programme>
-  <programme start="20261124095500 +0300" stop="20261124102700 +0300" channel="vf-friends">
-    <title>т/с Эпизод с няней мужского пола</title>
-  </programme>
-  <programme start="20261124102700 +0300" stop="20261124105000 +0300" channel="vf-friends">
-    <title>т/с Эпизод с неуместной песней Росса</title>
-  </programme>
-  <programme start="20261124105000 +0300" stop="20261124111500 +0300" channel="vf-friends">
-    <title>т/с Эпизод с другой сестрой Рэйчел</title>
-  </programme>
-  <programme start="20261124111500 +0300" stop="20261124113900 +0300" channel="vf-friends">
-    <title>т/с Эпизод с телефонным номером Рэйчел</title>
-  </programme>
-  <programme start="20261124113900 +0300" stop="20261124120200 +0300" channel="vf-friends">
-    <title>т/с Эпизод с Рождеством в Талсе</title>
-  </programme>
-  <programme start="20261124120200 +0300" stop="20261124122500 +0300" channel="vf-friends">
-    <title>т/с Эпизод, где Рэйчел возвращается на работу</title>
-  </programme>
-  <programme start="20261124122500 +0300" stop="20261124124800 +0300" channel="vf-friends">
-    <title>т/с Эпизод с крысами Фиби</title>
-  </programme>
-  <programme start="20261124124800 +0300" stop="20261124131900 +0300" channel="vf-friends">
-    <title>т/с Эпизод где поет Моника</title>
-  </programme>
-  <programme start="20261124131900 +0300" stop="20261124134200 +0300" channel="vf-friends">
-    <title>т/с Эпизод со свиданиями вслепую</title>
-  </programme>
-  <programme start="20261124134200 +0300" stop="20261124140500 +0300" channel="vf-friends">
-    <title>т/с Эпизод с хулиганством</title>
-  </programme>
-  <programme start="20261124140500 +0300" stop="20261124142800 +0300" channel="vf-friends">
-    <title>т/с Эпизод с пластикой груди</title>
-  </programme>
-  <programme start="20261124142800 +0300" stop="20261124145200 +0300" channel="vf-friends">
-    <title>т/с Эпизод с поминками</title>
-  </programme>
-  <programme start="20261124145200 +0300" stop="20261124151500 +0300" channel="vf-friends">
-    <title>т/с Эпизод с лотереей</title>
-  </programme>
-  <programme start="20261124151500 +0300" stop="20261124153900 +0300" channel="vf-friends">
-    <title>т/с Эпизод со сном Рэйчел</title>
-  </programme>
-  <programme start="20261124153900 +0300" stop="20261124160300 +0300" channel="vf-friends">
-    <title>т/с Эпизод с мыльной вечеринкой</title>
-  </programme>
-  <programme start="20261124160300 +0300" stop="20261124163000 +0300" channel="vf-friends">
-    <title>т/с Эпизод с результатом теста</title>
-  </programme>
-  <programme start="20261124163000 +0300" stop="20261124165500 +0300" channel="vf-friends">
-    <title>т/с Эпизод с донором</title>
-  </programme>
-  <programme start="20261124165500 +0300" stop="20261124174500 +0300" channel="vf-friends">
-    <title>т/с Эпизод на Барбадосе</title>
-  </programme>
-  <programme start="20261124174500 +0300" stop="20261124181400 +0300" channel="vf-friends">
-    <title>т/с Эпизод после поцелуя Джо и Рейчел</title>
-  </programme>
-  <programme start="20261124181400 +0300" stop="20261124183800 +0300" channel="vf-friends">
-    <title>т/с Эпизод, где Росс в порядке</title>
-  </programme>
-  <programme start="20261124183800 +0300" stop="20261124190300 +0300" channel="vf-friends">
-    <title>т/с Эпизод c загаром Росса</title>
-  </programme>
-  <programme start="20261124190300 +0300" stop="20261124192600 +0300" channel="vf-friends">
-    <title>т/с Эпизод с тортом</title>
-  </programme>
-  <programme start="20261124192600 +0300" stop="20261124195400 +0300" channel="vf-friends">
-    <title>т/с Эпизод, в котором сестра Рэйчел нянчится</title>
-  </programme>
-  <programme start="20261124195400 +0300" stop="20261124201800 +0300" channel="vf-friends">
-    <title>т/с Эпизод с грантом Росса</title>
-  </programme>
-  <programme start="20261124201800 +0300" stop="20261124204200 +0300" channel="vf-friends">
-    <title>т/с Эпизод с осмотром квартиры</title>
-  </programme>
-  <programme start="20261124204200 +0300" stop="20261124210500 +0300" channel="vf-friends">
-    <title>т/с Эпизод с запоздавшим днём благодарения</title>
-  </programme>
-  <programme start="20261124210500 +0300" stop="20261124213000 +0300" channel="vf-friends">
-    <title>т/с Эпизод с суррогатной матерью</title>
-  </programme>
-  <programme start="20261124213000 +0300" stop="20261124215200 +0300" channel="vf-friends">
-    <title>т/с Эпизод, в котором Чендлер пойман</title>
-  </programme>
-  <programme start="20261124215200 +0300" stop="20261124222000 +0300" channel="vf-friends">
-    <title>т/с Эпизод, где стриптизёр плачет</title>
-  </programme>
-  <programme start="20261124222000 +0300" stop="20261124225000 +0300" channel="vf-friends">
-    <title>т/с Эпизод со свадьбой Фиби</title>
-  </programme>
-  <programme start="20261124225000 +0300" stop="20261124231300 +0300" channel="vf-friends">
-    <title>т/с Эпизод, где Джо разговаривает по-французски</title>
-  </programme>
-  <programme start="20261124231300 +0300" stop="20261124233600 +0300" channel="vf-friends">
-    <title>т/с Эпизод с Принцессой Консуэлой</title>
-  </programme>
-  <programme start="20261124233600 +0300" stop="20261125000000 +0300" channel="vf-friends">
-    <title>т/с Эпизод, в котором Эстель умирает</title>
-  </programme>
   <programme start="20261125000000 +0300" stop="20261125002200 +0300" channel="vf-friends">
     <title>т/с Эпизод с прощальной вечеринкой Рэйчел</title>
   </programme>
@@ -570,344 +393,440 @@
   <programme start="20261126234400 +0300" stop="20261127000600 +0300" channel="vf-friends">
     <title>т/с Эпизод, в котором Джо теряет свою медицинскую страховку</title>
   </programme>
-  <programme start="20261127000600 +0300" stop="20261127002800 +0300" channel="vf-friends">
+  <programme start="20261127000500 +0300" stop="20261127002700 +0300" channel="vf-friends">
     <title>т/с Эпизод с Порше Джо</title>
   </programme>
-  <programme start="20261127002800 +0300" stop="20261127005000 +0300" channel="vf-friends">
+  <programme start="20261127002700 +0300" stop="20261127004900 +0300" channel="vf-friends">
     <title>т/с Эпизод о последнем вечере</title>
   </programme>
-  <programme start="20261127005000 +0300" stop="20261127011200 +0300" channel="vf-friends">
+  <programme start="20261127004900 +0300" stop="20261127011100 +0300" channel="vf-friends">
     <title>т/с Эпизод, в котором Фиби бегает</title>
   </programme>
-  <programme start="20261127011200 +0300" stop="20261127013300 +0300" channel="vf-friends">
+  <programme start="20261127011100 +0300" stop="20261127013300 +0300" channel="vf-friends">
     <title>т/с Эпизод с зубами Росса</title>
   </programme>
   <programme start="20261127013300 +0300" stop="20261127015600 +0300" channel="vf-friends">
     <title>т/с Эпизод, в котором Росс обкуривается</title>
   </programme>
-  <programme start="20261127015600 +0300" stop="20261127021800 +0300" channel="vf-friends">
+  <programme start="20261127015600 +0300" stop="20261127021700 +0300" channel="vf-friends">
     <title>т/с Эпизод c халтуркой</title>
   </programme>
-  <programme start="20261127021800 +0300" stop="20261127024000 +0300" channel="vf-friends">
+  <programme start="20261127021700 +0300" stop="20261127023900 +0300" channel="vf-friends">
     <title>т/с Эпизод c аптекарским столиком</title>
   </programme>
-  <programme start="20261127024000 +0300" stop="20261127030200 +0300" channel="vf-friends">
+  <programme start="20261127023900 +0300" stop="20261127030100 +0300" channel="vf-friends">
     <title>т/с Эпизод c шуткой</title>
   </programme>
-  <programme start="20261127030200 +0300" stop="20261127032400 +0300" channel="vf-friends">
+  <programme start="20261127030100 +0300" stop="20261127032300 +0300" channel="vf-friends">
     <title>т/с Эпизод с сестрой Рэйчел</title>
   </programme>
-  <programme start="20261127032400 +0300" stop="20261127034600 +0300" channel="vf-friends">
+  <programme start="20261127032300 +0300" stop="20261127034500 +0300" channel="vf-friends">
     <title>т/с Эпизод, в котором Чендлер не может плакать</title>
   </programme>
-  <programme start="20261127034600 +0300" stop="20261127040800 +0300" channel="vf-friends">
+  <programme start="20261127034500 +0300" stop="20261127040700 +0300" channel="vf-friends">
     <title>т/с Эпизод, в котором всё могло быть иначе ┊ 1</title>
   </programme>
-  <programme start="20261127040800 +0300" stop="20261127043000 +0300" channel="vf-friends">
+  <programme start="20261127040700 +0300" stop="20261127042900 +0300" channel="vf-friends">
     <title>т/с Эпизод, в котором все могло быть иначе ┊ 2</title>
   </programme>
-  <programme start="20261127043000 +0300" stop="20261127045200 +0300" channel="vf-friends">
+  <programme start="20261127042900 +0300" stop="20261127045100 +0300" channel="vf-friends">
     <title>т/с Эпизод c унаги</title>
   </programme>
-  <programme start="20261127045200 +0300" stop="20261127051400 +0300" channel="vf-friends">
+  <programme start="20261127045100 +0300" stop="20261127051300 +0300" channel="vf-friends">
     <title>т/с Эпизод, в котором Росс назначает свидание студентке</title>
   </programme>
-  <programme start="20261127051400 +0300" stop="20261127053600 +0300" channel="vf-friends">
+  <programme start="20261127051300 +0300" stop="20261127053500 +0300" channel="vf-friends">
     <title>т/с Эпизод с холодильником Джо</title>
   </programme>
-  <programme start="20261127053600 +0300" stop="20261127055800 +0300" channel="vf-friends">
+  <programme start="20261127053500 +0300" stop="20261127055700 +0300" channel="vf-friends">
     <title>т/с Эпизод с Маком и Чизом</title>
   </programme>
-  <programme start="20261127055800 +0300" stop="20261127062000 +0300" channel="vf-friends">
+  <programme start="20261127055700 +0300" stop="20261127061900 +0300" channel="vf-friends">
     <title>т/с Эпизод, в котором Росс знакомится с отцом Элизабет</title>
   </programme>
-  <programme start="20261127062000 +0300" stop="20261127064200 +0300" channel="vf-friends">
+  <programme start="20261127061900 +0300" stop="20261127064100 +0300" channel="vf-friends">
     <title>т/с Эпизод, в котором выясняется, что Пол – классный парень</title>
   </programme>
-  <programme start="20261127064200 +0300" stop="20261127070400 +0300" channel="vf-friends">
+  <programme start="20261127064100 +0300" stop="20261127070400 +0300" channel="vf-friends">
     <title>т/с Эпизод с кольцом</title>
   </programme>
-  <programme start="20261127070400 +0300" stop="20261127072600 +0300" channel="vf-friends">
+  <programme start="20261127070400 +0300" stop="20261127072500 +0300" channel="vf-friends">
     <title>т/с Эпизод с предложением ┊ 1</title>
   </programme>
-  <programme start="20261127072600 +0300" stop="20261127074800 +0300" channel="vf-friends">
+  <programme start="20261127072500 +0300" stop="20261127080800 +0300" channel="vf-friends">
     <title>т/с Друзья</title>
   </programme>
-  <programme start="20261127074800 +0300" stop="20261127081000 +0300" channel="vf-friends">
-    <title>т/с Эпизод с вечеринкой Моники</title>
-  </programme>
-  <programme start="20261127081000 +0300" stop="20261127083200 +0300" channel="vf-friends">
+  <programme start="20261127080800 +0300" stop="20261127083000 +0300" channel="vf-friends">
     <title>т/с Эпизод с книгой Рэйчел</title>
   </programme>
-  <programme start="20261127083200 +0300" stop="20261127085300 +0300" channel="vf-friends">
+  <programme start="20261127083000 +0300" stop="20261127085200 +0300" channel="vf-friends">
     <title>т/с Эпизод с печеньем Фиби</title>
   </programme>
-  <programme start="20261127085300 +0300" stop="20261127091500 +0300" channel="vf-friends">
+  <programme start="20261127085200 +0300" stop="20261127091400 +0300" channel="vf-friends">
     <title>т/с Эпизод с ассистентом Рэйчел</title>
   </programme>
-  <programme start="20261127091500 +0300" stop="20261127093700 +0300" channel="vf-friends">
+  <programme start="20261127091400 +0300" stop="20261127093600 +0300" channel="vf-friends">
     <title>т/с Эпизод с фотографией для помолвки</title>
   </programme>
-  <programme start="20261127093700 +0300" stop="20261127095900 +0300" channel="vf-friends">
+  <programme start="20261127093600 +0300" stop="20261127095700 +0300" channel="vf-friends">
     <title>т/с Эпизод со спящими</title>
   </programme>
-  <programme start="20261127095900 +0300" stop="20261127102100 +0300" channel="vf-friends">
+  <programme start="20261127095700 +0300" stop="20261127101900 +0300" channel="vf-friends">
     <title>т/с Эпизод с библиотечной книгой Росса</title>
   </programme>
-  <programme start="20261127102100 +0300" stop="20261127104300 +0300" channel="vf-friends">
+  <programme start="20261127101900 +0300" stop="20261127104100 +0300" channel="vf-friends">
     <title>т/с Эпизод, в котором выясняется, что Чендлер не любит собак</title>
   </programme>
-  <programme start="20261127104300 +0300" stop="20261127110500 +0300" channel="vf-friends">
+  <programme start="20261127104100 +0300" stop="20261127110300 +0300" channel="vf-friends">
     <title>т/с Эпизод со всеми конфетами</title>
   </programme>
-  <programme start="20261127110500 +0300" stop="20261127112700 +0300" channel="vf-friends">
+  <programme start="20261127110300 +0300" stop="20261127112500 +0300" channel="vf-friends">
     <title>т/с Эпизод с Рождественским Броненосцем</title>
   </programme>
-  <programme start="20261127112700 +0300" stop="20261127114900 +0300" channel="vf-friends">
+  <programme start="20261127112500 +0300" stop="20261127114700 +0300" channel="vf-friends">
     <title>т/с Эпизод с сырными пирогами</title>
   </programme>
-  <programme start="20261127114900 +0300" stop="20261127121100 +0300" channel="vf-friends">
+  <programme start="20261127114700 +0300" stop="20261127120900 +0300" channel="vf-friends">
     <title>т/с Эпизод, в котором никто не спит</title>
   </programme>
-  <programme start="20261127121100 +0300" stop="20261127123300 +0300" channel="vf-friends">
+  <programme start="20261127120900 +0300" stop="20261127123100 +0300" channel="vf-friends">
     <title>т/с Эпизод, в котором Розита умирает</title>
   </programme>
-  <programme start="20261127123300 +0300" stop="20261127125500 +0300" channel="vf-friends">
+  <programme start="20261127123100 +0300" stop="20261127125300 +0300" channel="vf-friends">
     <title>т/с Эпизод, в котором всем исполняется по 30</title>
   </programme>
-  <programme start="20261127125500 +0300" stop="20261127131700 +0300" channel="vf-friends">
+  <programme start="20261127125300 +0300" stop="20261127131600 +0300" channel="vf-friends">
     <title>т/с Эпизод c новым мозгом Джо</title>
   </programme>
-  <programme start="20261127131700 +0300" stop="20261127133900 +0300" channel="vf-friends">
+  <programme start="20261127131600 +0300" stop="20261127133800 +0300" channel="vf-friends">
     <title>т/с Эпизод со всей правдой о Лондоне</title>
   </programme>
-  <programme start="20261127133900 +0300" stop="20261127140100 +0300" channel="vf-friends">
+  <programme start="20261127133800 +0300" stop="20261127140000 +0300" channel="vf-friends">
     <title>т/с Эпизод с дешёвым свадебным платьем</title>
   </programme>
-  <programme start="20261127140100 +0300" stop="20261127142300 +0300" channel="vf-friends">
+  <programme start="20261127140000 +0300" stop="20261127142200 +0300" channel="vf-friends">
     <title>т/с Эпизод с наградой Джо</title>
   </programme>
-  <programme start="20261127142300 +0300" stop="20261127144500 +0300" channel="vf-friends">
+  <programme start="20261127142200 +0300" stop="20261127144400 +0300" channel="vf-friends">
     <title>т/с Эпизод с кузиной Росса и Моники</title>
   </programme>
-  <programme start="20261127144500 +0300" stop="20261127150700 +0300" channel="vf-friends">
+  <programme start="20261127144400 +0300" stop="20261127150600 +0300" channel="vf-friends">
     <title>т/с Эпизод с Великим Поцелуем Рэйчел</title>
   </programme>
-  <programme start="20261127150700 +0300" stop="20261127152900 +0300" channel="vf-friends">
+  <programme start="20261127150600 +0300" stop="20261127152700 +0300" channel="vf-friends">
     <title>т/с Эпизод с Клятвами</title>
   </programme>
-  <programme start="20261127152900 +0300" stop="20261127155100 +0300" channel="vf-friends">
+  <programme start="20261127152700 +0300" stop="20261127154900 +0300" channel="vf-friends">
     <title>т/с Эпизод с отцом Чендлера</title>
   </programme>
-  <programme start="20261127155100 +0300" stop="20261127161300 +0300" channel="vf-friends">
+  <programme start="20261127154900 +0300" stop="20261127161100 +0300" channel="vf-friends">
     <title>т/с Эпизод со свадьбой Моники и Чендлера ┊ 1</title>
   </programme>
-  <programme start="20261127161300 +0300" stop="20261127163500 +0300" channel="vf-friends">
+  <programme start="20261127161100 +0300" stop="20261127163300 +0300" channel="vf-friends">
     <title>т/с Эпизод со свадьбой Моники и Чендлера ┊ 2</title>
   </programme>
-  <programme start="20261127163500 +0300" stop="20261127165800 +0300" channel="vf-friends">
+  <programme start="20261127163300 +0300" stop="20261127165600 +0300" channel="vf-friends">
     <title>т/с Эпизод после слов Я согласен</title>
   </programme>
-  <programme start="20261127165800 +0300" stop="20261127171900 +0300" channel="vf-friends">
+  <programme start="20261127165600 +0300" stop="20261127171800 +0300" channel="vf-friends">
     <title>т/с Эпизод с красным свитером</title>
   </programme>
-  <programme start="20261127171900 +0300" stop="20261127174100 +0300" channel="vf-friends">
+  <programme start="20261127171800 +0300" stop="20261127174000 +0300" channel="vf-friends">
     <title>т/с Эпизод в котором Рэйчел рассказывает…</title>
   </programme>
-  <programme start="20261127174100 +0300" stop="20261127180400 +0300" channel="vf-friends">
+  <programme start="20261127174000 +0300" stop="20261127180200 +0300" channel="vf-friends">
     <title>т/с Эпизод с видеозаписью</title>
   </programme>
-  <programme start="20261127180400 +0300" stop="20261127182600 +0300" channel="vf-friends">
+  <programme start="20261127180200 +0300" stop="20261127182400 +0300" channel="vf-friends">
     <title>т/с Эпизод со свиданием Рэйчел</title>
   </programme>
-  <programme start="20261127182600 +0300" stop="20261127184800 +0300" channel="vf-friends">
+  <programme start="20261127182400 +0300" stop="20261127184600 +0300" channel="vf-friends">
     <title>т/с Эпизод с вечеринкой на Хэллоуин</title>
   </programme>
-  <programme start="20261127184800 +0300" stop="20261127191000 +0300" channel="vf-friends">
+  <programme start="20261127184600 +0300" stop="20261127190800 +0300" channel="vf-friends">
     <title>т/с Эпизод с пятном</title>
   </programme>
-  <programme start="20261127191000 +0300" stop="20261127193200 +0300" channel="vf-friends">
+  <programme start="20261127190800 +0300" stop="20261127193000 +0300" channel="vf-friends">
     <title>т/с Эпизод со стриптизершей</title>
   </programme>
-  <programme start="20261127193200 +0300" stop="20261127195400 +0300" channel="vf-friends">
+  <programme start="20261127193000 +0300" stop="20261127195200 +0300" channel="vf-friends">
     <title>т/с Эпизод со сплетней</title>
   </programme>
-  <programme start="20261127195400 +0300" stop="20261127201600 +0300" channel="vf-friends">
+  <programme start="20261127195200 +0300" stop="20261127201400 +0300" channel="vf-friends">
     <title>т/с Эпизод с сапожками Моники</title>
   </programme>
-  <programme start="20261127201600 +0300" stop="20261127203800 +0300" channel="vf-friends">
+  <programme start="20261127201400 +0300" stop="20261127203600 +0300" channel="vf-friends">
     <title>т/с Эпизод с серьезным шагом для Росса</title>
   </programme>
-  <programme start="20261127203800 +0300" stop="20261127210000 +0300" channel="vf-friends">
+  <programme start="20261127203600 +0300" stop="20261127205800 +0300" channel="vf-friends">
     <title>т/с Эпизод в котором Джо идет на свидание с Рэйчел</title>
   </programme>
-  <programme start="20261127210000 +0300" stop="20261127212100 +0300" channel="vf-friends">
+  <programme start="20261127205800 +0300" stop="20261127212000 +0300" channel="vf-friends">
     <title>т/с Эпизод в котором Чендлер принимает ванну</title>
   </programme>
-  <programme start="20261127212100 +0300" stop="20261127214300 +0300" channel="vf-friends">
+  <programme start="20261127212000 +0300" stop="20261127214200 +0300" channel="vf-friends">
     <title>т/с Эпизод про тайный чулан</title>
   </programme>
-  <programme start="20261127214300 +0300" stop="20261127220500 +0300" channel="vf-friends">
+  <programme start="20261127214200 +0300" stop="20261127220300 +0300" channel="vf-friends">
     <title>т/с Эпизод с видео о родах</title>
   </programme>
-  <programme start="20261127220500 +0300" stop="20261127222600 +0300" channel="vf-friends">
+  <programme start="20261127220300 +0300" stop="20261127222500 +0300" channel="vf-friends">
     <title>т/с Эпизод в котором Джо рассказывает Рэйчел</title>
   </programme>
-  <programme start="20261127222600 +0300" stop="20261127224800 +0300" channel="vf-friends">
+  <programme start="20261127222500 +0300" stop="20261127224700 +0300" channel="vf-friends">
     <title>т/с Эпизод с чайными листьями</title>
   </programme>
-  <programme start="20261127224800 +0300" stop="20261127231000 +0300" channel="vf-friends">
+  <programme start="20261127224700 +0300" stop="20261127230900 +0300" channel="vf-friends">
     <title>т/с Эпизод проходит в Массапеке</title>
   </programme>
-  <programme start="20261127231000 +0300" stop="20261127233200 +0300" channel="vf-friends">
+  <programme start="20261127230900 +0300" stop="20261127233100 +0300" channel="vf-friends">
     <title>т/с Эпизод с интервью Джо</title>
   </programme>
-  <programme start="20261127233200 +0300" stop="20261127235400 +0300" channel="vf-friends">
+  <programme start="20261127233100 +0300" stop="20261127235300 +0300" channel="vf-friends">
     <title>т/с Эпизод с детской вечеринкой</title>
   </programme>
-  <programme start="20261127235400 +0300" stop="20261128001600 +0300" channel="vf-friends">
+  <programme start="20261127235300 +0300" stop="20261128001400 +0300" channel="vf-friends">
     <title>т/с Эпизод с курсами кулинарии</title>
   </programme>
-  <programme start="20261128001600 +0300" stop="20261128003800 +0300" channel="vf-friends">
+  <programme start="20261128001400 +0300" stop="20261128003600 +0300" channel="vf-friends">
     <title>т/с Эпизод, где Рэйчел перенашивает</title>
   </programme>
-  <programme start="20261128003800 +0300" stop="20261128010000 +0300" channel="vf-friends">
+  <programme start="20261128003600 +0300" stop="20261128005800 +0300" channel="vf-friends">
     <title>т/с Эпизод в котором рождается ребёнок ┊ 1</title>
   </programme>
-  <programme start="20261128010000 +0300" stop="20261128012200 +0300" channel="vf-friends">
+  <programme start="20261128005800 +0300" stop="20261128012000 +0300" channel="vf-friends">
     <title>т/с Эпизод в котором рождается ребёнок ┊ 2</title>
   </programme>
-  <programme start="20261128012200 +0300" stop="20261128014500 +0300" channel="vf-friends">
+  <programme start="20261128012000 +0300" stop="20261128014400 +0300" channel="vf-friends">
     <title>т/с Эпизод в котором никто не делает предложения</title>
   </programme>
-  <programme start="20261128014500 +0300" stop="20261128020900 +0300" channel="vf-friends">
+  <programme start="20261128014400 +0300" stop="20261128020700 +0300" channel="vf-friends">
     <title>т/с Эпизод, где плачет Эмма</title>
   </programme>
-  <programme start="20261128020900 +0300" stop="20261128023200 +0300" channel="vf-friends">
+  <programme start="20261128020700 +0300" stop="20261128023000 +0300" channel="vf-friends">
     <title>т/с Эпизод с педиатром</title>
   </programme>
-  <programme start="20261128023200 +0300" stop="20261128025500 +0300" channel="vf-friends">
+  <programme start="20261128023000 +0300" stop="20261128025300 +0300" channel="vf-friends">
     <title>т/с Эпизод с акулами</title>
   </programme>
-  <programme start="20261128025500 +0300" stop="20261128031800 +0300" channel="vf-friends">
+  <programme start="20261128025300 +0300" stop="20261128031700 +0300" channel="vf-friends">
     <title>т/с Эпизод с днём рождения Фиби</title>
   </programme>
-  <programme start="20261128031800 +0300" stop="20261128035000 +0300" channel="vf-friends">
+  <programme start="20261128031700 +0300" stop="20261128034900 +0300" channel="vf-friends">
     <title>т/с Эпизод с няней мужского пола</title>
   </programme>
-  <programme start="20261128035000 +0300" stop="20261128041400 +0300" channel="vf-friends">
+  <programme start="20261128034900 +0300" stop="20261128041200 +0300" channel="vf-friends">
     <title>т/с Эпизод с неуместной песней Росса</title>
   </programme>
-  <programme start="20261128041400 +0300" stop="20261128043900 +0300" channel="vf-friends">
+  <programme start="20261128041200 +0300" stop="20261128043700 +0300" channel="vf-friends">
     <title>т/с Эпизод с другой сестрой Рэйчел</title>
   </programme>
-  <programme start="20261128043900 +0300" stop="20261128050200 +0300" channel="vf-friends">
+  <programme start="20261128043700 +0300" stop="20261128050000 +0300" channel="vf-friends">
     <title>т/с Эпизод с телефонным номером Рэйчел</title>
   </programme>
-  <programme start="20261128050200 +0300" stop="20261128052500 +0300" channel="vf-friends">
+  <programme start="20261128050000 +0300" stop="20261128052400 +0300" channel="vf-friends">
     <title>т/с Эпизод с Рождеством в Талсе</title>
   </programme>
-  <programme start="20261128052500 +0300" stop="20261128054900 +0300" channel="vf-friends">
+  <programme start="20261128052400 +0300" stop="20261128054700 +0300" channel="vf-friends">
     <title>т/с Эпизод, где Рэйчел возвращается на работу</title>
   </programme>
-  <programme start="20261128054900 +0300" stop="20261128061200 +0300" channel="vf-friends">
+  <programme start="20261128054700 +0300" stop="20261128061000 +0300" channel="vf-friends">
     <title>т/с Эпизод с крысами Фиби</title>
   </programme>
-  <programme start="20261128061200 +0300" stop="20261128064300 +0300" channel="vf-friends">
+  <programme start="20261128061000 +0300" stop="20261128064100 +0300" channel="vf-friends">
     <title>т/с Эпизод где поет Моника</title>
   </programme>
-  <programme start="20261128064300 +0300" stop="20261128070600 +0300" channel="vf-friends">
+  <programme start="20261128064100 +0300" stop="20261128070400 +0300" channel="vf-friends">
     <title>т/с Эпизод со свиданиями вслепую</title>
   </programme>
-  <programme start="20261128070600 +0300" stop="20261128072900 +0300" channel="vf-friends">
+  <programme start="20261128070400 +0300" stop="20261128072700 +0300" channel="vf-friends">
     <title>т/с Эпизод с хулиганством</title>
   </programme>
-  <programme start="20261128072900 +0300" stop="20261128075200 +0300" channel="vf-friends">
+  <programme start="20261128072700 +0300" stop="20261128075000 +0300" channel="vf-friends">
     <title>т/с Эпизод с пластикой груди</title>
   </programme>
-  <programme start="20261128075200 +0300" stop="20261128081600 +0300" channel="vf-friends">
+  <programme start="20261128075000 +0300" stop="20261128081400 +0300" channel="vf-friends">
     <title>т/с Эпизод с поминками</title>
   </programme>
-  <programme start="20261128081600 +0300" stop="20261128083900 +0300" channel="vf-friends">
+  <programme start="20261128081400 +0300" stop="20261128083700 +0300" channel="vf-friends">
     <title>т/с Эпизод с лотереей</title>
   </programme>
-  <programme start="20261124004500 +0300" stop="20261124013800 +0300" channel="vf-series">
-    <title>т/с Бесстыжие ┊ 27</title>
+  <programme start="20261128083700 +0300" stop="20261128090100 +0300" channel="vf-friends">
+    <title>т/с Эпизод со сном Рэйчел</title>
   </programme>
-  <programme start="20261124013800 +0300" stop="20261124022900 +0300" channel="vf-series">
-    <title>т/с Бесстыжие ┊ 28</title>
+  <programme start="20261128090100 +0300" stop="20261128092500 +0300" channel="vf-friends">
+    <title>т/с Эпизод с мыльной вечеринкой</title>
   </programme>
-  <programme start="20261124022900 +0300" stop="20261124032500 +0300" channel="vf-series">
-    <title>т/с Бесстыжие ┊ 29</title>
+  <programme start="20261128092500 +0300" stop="20261128095200 +0300" channel="vf-friends">
+    <title>т/с Эпизод с результатом теста</title>
   </programme>
-  <programme start="20261124032500 +0300" stop="20261124042000 +0300" channel="vf-series">
-    <title>т/с Бесстыжие ┊ 30</title>
+  <programme start="20261128095200 +0300" stop="20261128101700 +0300" channel="vf-friends">
+    <title>т/с Эпизод с донором</title>
   </programme>
-  <programme start="20261124042000 +0300" stop="20261124051200 +0300" channel="vf-series">
-    <title>т/с Бесстыжие ┊ 31</title>
+  <programme start="20261128101700 +0300" stop="20261128110700 +0300" channel="vf-friends">
+    <title>т/с Эпизод на Барбадосе</title>
   </programme>
-  <programme start="20261124051200 +0300" stop="20261124060600 +0300" channel="vf-series">
-    <title>т/с Бесстыжие ┊ 32</title>
+  <programme start="20261128110700 +0300" stop="20261128113600 +0300" channel="vf-friends">
+    <title>т/с Эпизод после поцелуя Джо и Рейчел</title>
   </programme>
-  <programme start="20261124060600 +0300" stop="20261124070200 +0300" channel="vf-series">
-    <title>т/с Бесстыжие ┊ 33</title>
+  <programme start="20261128113600 +0300" stop="20261128120000 +0300" channel="vf-friends">
+    <title>т/с Эпизод, где Росс в порядке</title>
   </programme>
-  <programme start="20261124070200 +0300" stop="20261124075200 +0300" channel="vf-series">
-    <title>т/с Бесстыжие ┊ 34</title>
+  <programme start="20261128120000 +0300" stop="20261128122400 +0300" channel="vf-friends">
+    <title>т/с Эпизод c загаром Росса</title>
   </programme>
-  <programme start="20261124075200 +0300" stop="20261124084600 +0300" channel="vf-series">
-    <title>т/с Бесстыжие ┊ 35</title>
+  <programme start="20261128122400 +0300" stop="20261128124700 +0300" channel="vf-friends">
+    <title>т/с Эпизод с тортом</title>
   </programme>
-  <programme start="20261124084600 +0300" stop="20261124094200 +0300" channel="vf-series">
-    <title>т/с Бесстыжие ┊ 36</title>
+  <programme start="20261128124700 +0300" stop="20261128131600 +0300" channel="vf-friends">
+    <title>т/с Эпизод, в котором сестра Рэйчел нянчится</title>
   </programme>
-  <programme start="20261124094200 +0300" stop="20261124103800 +0300" channel="vf-series">
-    <title>т/с Бесстыжие ┊ 37</title>
+  <programme start="20261128131600 +0300" stop="20261128134000 +0300" channel="vf-friends">
+    <title>т/с Эпизод с грантом Росса</title>
   </programme>
-  <programme start="20261124103800 +0300" stop="20261124112800 +0300" channel="vf-series">
-    <title>т/с Бесстыжие ┊ 38</title>
+  <programme start="20261128134000 +0300" stop="20261128140300 +0300" channel="vf-friends">
+    <title>т/с Эпизод с осмотром квартиры</title>
   </programme>
-  <programme start="20261124112800 +0300" stop="20261124122300 +0300" channel="vf-series">
-    <title>т/с Бесстыжие ┊ 39</title>
+  <programme start="20261128140300 +0300" stop="20261128142600 +0300" channel="vf-friends">
+    <title>т/с Эпизод с запоздавшим днём благодарения</title>
   </programme>
-  <programme start="20261124122300 +0300" stop="20261124132000 +0300" channel="vf-series">
-    <title>т/с Бесстыжие ┊ 40</title>
+  <programme start="20261128142600 +0300" stop="20261128145100 +0300" channel="vf-friends">
+    <title>т/с Эпизод с суррогатной матерью</title>
   </programme>
-  <programme start="20261124132000 +0300" stop="20261124141200 +0300" channel="vf-series">
-    <title>т/с Бесстыжие ┊ 41</title>
+  <programme start="20261128145100 +0300" stop="20261128151400 +0300" channel="vf-friends">
+    <title>т/с Эпизод, в котором Чендлер пойман</title>
   </programme>
-  <programme start="20261124141200 +0300" stop="20261124150800 +0300" channel="vf-series">
-    <title>т/с Бесстыжие ┊ 42</title>
+  <programme start="20261128151400 +0300" stop="20261128154200 +0300" channel="vf-friends">
+    <title>т/с Эпизод, где стриптизёр плачет</title>
   </programme>
-  <programme start="20261124150800 +0300" stop="20261124155900 +0300" channel="vf-series">
-    <title>т/с Бесстыжие ┊ 43</title>
+  <programme start="20261128154200 +0300" stop="20261128161100 +0300" channel="vf-friends">
+    <title>т/с Эпизод со свадьбой Фиби</title>
   </programme>
-  <programme start="20261124155900 +0300" stop="20261124165500 +0300" channel="vf-series">
-    <title>т/с Бесстыжие ┊ 44</title>
+  <programme start="20261128161100 +0300" stop="20261128163500 +0300" channel="vf-friends">
+    <title>т/с Эпизод, где Джо разговаривает по-французски</title>
   </programme>
-  <programme start="20261124165500 +0300" stop="20261124174900 +0300" channel="vf-series">
-    <title>т/с Бесстыжие ┊ 45</title>
+  <programme start="20261128163500 +0300" stop="20261128165800 +0300" channel="vf-friends">
+    <title>т/с Эпизод с Принцессой Консуэлой</title>
   </programme>
-  <programme start="20261124174900 +0300" stop="20261124184000 +0300" channel="vf-series">
-    <title>т/с Бесстыжие ┊ 46</title>
+  <programme start="20261128165800 +0300" stop="20261128172100 +0300" channel="vf-friends">
+    <title>т/с Эпизод, в котором Эстель умирает</title>
   </programme>
-  <programme start="20261124184000 +0300" stop="20261124192900 +0300" channel="vf-series">
-    <title>т/с Бесстыжие ┊ 47</title>
+  <programme start="20261128172100 +0300" stop="20261128174400 +0300" channel="vf-friends">
+    <title>т/с Эпизод с прощальной вечеринкой Рэйчел</title>
   </programme>
-  <programme start="20261124192900 +0300" stop="20261124202700 +0300" channel="vf-series">
-    <title>т/с Бесстыжие ┊ 48</title>
+  <programme start="20261128174400 +0300" stop="20261128183200 +0300" channel="vf-friends">
+    <title>т/с Финальный эпизод</title>
   </programme>
-  <programme start="20261124202700 +0300" stop="20261124212200 +0300" channel="vf-series">
-    <title>т/с Бесстыжие ┊ 49</title>
+  <programme start="20261128183200 +0300" stop="20261128185400 +0300" channel="vf-friends">
+    <title>т/с Эпизод, где Моника берёт новую соседку</title>
   </programme>
-  <programme start="20261124212200 +0300" stop="20261124221500 +0300" channel="vf-series">
-    <title>т/с Бесстыжие ┊ 50</title>
+  <programme start="20261128185400 +0300" stop="20261128191700 +0300" channel="vf-friends">
+    <title>т/с Эпизод с сонограммой в конце</title>
   </programme>
-  <programme start="20261124221500 +0300" stop="20261124230800 +0300" channel="vf-series">
-    <title>т/с Бесстыжие ┊ 51</title>
+  <programme start="20261128191700 +0300" stop="20261128194000 +0300" channel="vf-friends">
+    <title>т/с Эпизод с большим пальцем</title>
   </programme>
-  <programme start="20261124230800 +0300" stop="20261125000000 +0300" channel="vf-series">
-    <title>т/с Бесстыжие ┊ 52</title>
+  <programme start="20261128194000 +0300" stop="20261128200300 +0300" channel="vf-friends">
+    <title>т/с Эпизод с Джорджем Стефанопулосом</title>
+  </programme>
+  <programme start="20261128200300 +0300" stop="20261128202600 +0300" channel="vf-friends">
+    <title>т/с Эпизод с восточногерманским стиральным порошком</title>
+  </programme>
+  <programme start="20261128202600 +0300" stop="20261128204600 +0300" channel="vf-friends">
+    <title>т/с Эпизод с задом</title>
+  </programme>
+  <programme start="20261128204600 +0300" stop="20261128210900 +0300" channel="vf-friends">
+    <title>т/с Эпизод, в котором отключается свет</title>
+  </programme>
+  <programme start="20261128210900 +0300" stop="20261128213200 +0300" channel="vf-friends">
+    <title>т/с Эпизод, где Нана умирает дважды</title>
+  </programme>
+  <programme start="20261128213200 +0300" stop="20261128215500 +0300" channel="vf-friends">
+    <title>т/с Эпизод, где улетает Суперпёс</title>
+  </programme>
+  <programme start="20261128215500 +0300" stop="20261128221700 +0300" channel="vf-friends">
+    <title>т/с Эпизод с обезьяной</title>
+  </programme>
+  <programme start="20261128221700 +0300" stop="20261128224000 +0300" channel="vf-friends">
+    <title>т/с Эпизод с госпожой Бинг</title>
+  </programme>
+  <programme start="20261128224000 +0300" stop="20261128230300 +0300" channel="vf-friends">
+    <title>т/с Эпизод с дюжиной лазаний</title>
+  </programme>
+  <programme start="20261128230300 +0300" stop="20261128232600 +0300" channel="vf-friends">
+    <title>т/с Эпизод с грудью</title>
+  </programme>
+  <programme start="20261128232600 +0300" stop="20261128234800 +0300" channel="vf-friends">
+    <title>т/с Эпизод с конфетками-сердцами</title>
+  </programme>
+  <programme start="20261128234800 +0300" stop="20261129001100 +0300" channel="vf-friends">
+    <title>т/с Эпизод с обкуренным парнем</title>
+  </programme>
+  <programme start="20261129001100 +0300" stop="20261129003400 +0300" channel="vf-friends">
+    <title>т/с Эпизод с двумя частями ┊ 1</title>
+  </programme>
+  <programme start="20261129003400 +0300" stop="20261129005700 +0300" channel="vf-friends">
+    <title>т/с Эпизод с двумя частями ┊ 2</title>
+  </programme>
+  <programme start="20261129005700 +0300" stop="20261129011900 +0300" channel="vf-friends">
+    <title>т/с Эпизод с покером</title>
+  </programme>
+  <programme start="20261129011900 +0300" stop="20261129014200 +0300" channel="vf-friends">
+    <title>т/с Эпизод, где обезьяна сбегает</title>
+  </programme>
+  <programme start="20261129014200 +0300" stop="20261129020500 +0300" channel="vf-friends">
+    <title>т/с Эпизод со злым ортодонтом</title>
+  </programme>
+  <programme start="20261129020500 +0300" stop="20261129022800 +0300" channel="vf-friends">
+    <title>т/с Эпизод с фальшивой Моникой</title>
+  </programme>
+  <programme start="20261129022800 +0300" stop="20261129025000 +0300" channel="vf-friends">
+    <title>т/с Эпизод с ик-фактором</title>
+  </programme>
+  <programme start="20261129025000 +0300" stop="20261129031300 +0300" channel="vf-friends">
+    <title>т/с Эпизод с рождением</title>
+  </programme>
+  <programme start="20261129031300 +0300" stop="20261129033600 +0300" channel="vf-friends">
+    <title>т/с Эпизод, где Рейчел понимает</title>
+  </programme>
+  <programme start="20261129033600 +0300" stop="20261129035800 +0300" channel="vf-friends">
+    <title>т/с Эпизод с новой подругой Росса</title>
+  </programme>
+  <programme start="20261129035800 +0300" stop="20261129042100 +0300" channel="vf-friends">
+    <title>т/с Эпизод с грудным молоком</title>
+  </programme>
+  <programme start="20261129042100 +0300" stop="20261129044400 +0300" channel="vf-friends">
+    <title>т/с Эпизод, где мистер Хеклс умирает</title>
+  </programme>
+  <programme start="20261129044400 +0300" stop="20261129050600 +0300" channel="vf-friends">
+    <title>т/с Эпизод с мужем Фиби</title>
+  </programme>
+  <programme start="20261129050600 +0300" stop="20261129052900 +0300" channel="vf-friends">
+    <title>т/с Эпизод с пятью бифштексами и баклажаном</title>
+  </programme>
+  <programme start="20261129052900 +0300" stop="20261129055200 +0300" channel="vf-friends">
+    <title>т/с Эпизод с младенцем в автобусе</title>
+  </programme>
+  <programme start="20261129055200 +0300" stop="20261129061500 +0300" channel="vf-friends">
+    <title>т/с Эпизод, где Росс выясняет</title>
+  </programme>
+  <programme start="20261129061500 +0300" stop="20261129063800 +0300" channel="vf-friends">
+    <title>т/с Эпизод со списком</title>
+  </programme>
+  <programme start="20261129063800 +0300" stop="20261129070000 +0300" channel="vf-friends">
+    <title>т/с Эпизод с отцом Фиби</title>
+  </programme>
+  <programme start="20261129070000 +0300" stop="20261129072300 +0300" channel="vf-friends">
+    <title>т/с Эпизод с Рассом</title>
+  </programme>
+  <programme start="20261129072300 +0300" stop="20261129074600 +0300" channel="vf-friends">
+    <title>т/с Эпизод с лесбийской свадьбой</title>
+  </programme>
+  <programme start="20261129074600 +0300" stop="20261129080900 +0300" channel="vf-friends">
+    <title>т/с Эпизод после Суперкубка ┊ 1</title>
+  </programme>
+  <programme start="20261129080900 +0300" stop="20261129083100 +0300" channel="vf-friends">
+    <title>т/с Эпизод после Суперкубка ┊ 2</title>
   </programme>
   <programme start="20261125000000 +0300" stop="20261125005000 +0300" channel="vf-series">
     <title>т/с Бесстыжие ┊ 53</title>
